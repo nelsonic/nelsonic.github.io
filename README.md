@@ -48,10 +48,13 @@ I've used *many* publishing platforms and not found one I **love**.
 
 
 
+
 #### Research
 
 - 15 Best Blogging Platforms: http://thenextweb.com/apps/2013/08/16/best-blogging-services/
-- 
+
+>> I started working on this a few years back but kept it to myself:
+https://docs.google.com/document/d/1QxVNyiuaPcZSe4qyFUejTQ84AYlcCOR0gVPrXLOy3po
 
 #### List of Web Publishing Platforms/Frameworks I've Used
 
