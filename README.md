@@ -37,12 +37,14 @@ I've used *many* publishing platforms and not found one I **love**.
 
 #### List of Required Features
 
-- Simple intuitive content (&code) editor that stays out of the way!
-- Easily Change Theme (Look-and-Feel)
-- Spell Check!!
-- Translation to any language
-- Simple/Seamless (Automatic) Backup of **ALL** Content
-- Allow people to comment on content (with *intelligent* moderation)
+- [WCAG](http://www.w3.org/TR/WCAG/) **Standards Compliant**
+- **Security** Focussed
+- Simple **Intuitive** content (&code) **Editor** that stays out of the way!
+- Easily Change **Themes** (Look-and-Feel)
+- **Spell Check** with suggestions and dictionary!!
+- **Translation** to any language (on-the-fly)
+- Simple/Seamless (Automatic) **Backup** of **ALL** Content
+- Intelligent **Comment**/**Discussions** on content (with *fast* moderation)
 
 
 
