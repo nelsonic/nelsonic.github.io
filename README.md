@@ -39,8 +39,12 @@ I've used *many* publishing platforms and not found one I **love**.
 
 - [WCAG](http://www.w3.org/TR/WCAG/) **Standards Compliant**
 - **Security** Focussed
+- **No** Download or **Installation**
+- **Offline Mode** using HTML5 Local Storage
 - Simple **Intuitive** content (&code) **Editor** that stays out of the way!
+- **Colloborative Creation**
 - Easily Change **Themes** (Look-and-Feel)
+- **Mobile** by **Default** (no extra work to make it work on mobile!)
 - **Spell Check** with suggestions and dictionary!!
 - **Translation** to any language (on-the-fly)
 - Simple/Seamless (Automatic) **Backup** of **ALL** Content
@@ -51,7 +55,10 @@ I've used *many* publishing platforms and not found one I **love**.
 
 #### Research
 
-- 15 Best Blogging Platforms: http://thenextweb.com/apps/2013/08/16/best-blogging-services/
+- 15 **Best Blogging Platforms**: http://thenextweb.com/apps/2013/08/16/best-blogging-services/
+- 
+
+
 
 >> I started working on this a few years back but kept it to myself:
 https://docs.google.com/document/d/1QxVNyiuaPcZSe4qyFUejTQ84AYlcCOR0gVPrXLOy3po
