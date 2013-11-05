@@ -30,28 +30,40 @@ Publishing information ("content") is the first part ...
 
 I've used *many* publishing platforms and not found one I **love**.
 
+#### List of Gripes with Existing Platforms
+
+- 
+
 
 #### List of Required Features
 
+- Simple intuitive content (&code) editor that stays out of the way!
+- Easily Change Theme (Look-and-Feel)
+- Spell Check!!
+- Translation to any language
+- Simple/Seamless (Automatic) Backup of **ALL** Content
+- Allow people to comment on content (with *intelligent* moderation)
 
 
 
 #### Research
 
 - 15 Best Blogging Platforms: http://thenextweb.com/apps/2013/08/16/best-blogging-services/
+- 
 
 #### List of Web Publishing Platforms/Frameworks I've Used
 
-- Blogger: 
-- Tumbler:
-- Medium: 
-- Wordpress (.org/.com): 
-- Drupal: 
+- Blogger: http://www.blogger.com/features
+- Tumbler: http://www.tumblr.com/about
+- Medium: https://medium.com/product-design/8eb1b4a4d90c
+- Wordpress (.org/.com): http://wordpress.org/about/features/
+- Drupal: https://drupal.org/about
 - Ghost: https://ghost.org/features/
 - Squarespace: http://www.squarespace.com/tour/overview/
-- Ruby-on-Rails:
-- Django: 
-- Express: 
+- Ruby-on-Rails: http://rubyonrails.org/
+- Django: https://www.djangoproject.com/
+- Express: http://expressjs.com/
+- AngularJS (for apps): http://angularjs.org/
 
  
 
