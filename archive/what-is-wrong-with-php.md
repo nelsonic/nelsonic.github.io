@@ -1,6 +1,9 @@
-# What is Wrong with my LAMP? and Isn't PHP What *Everyone* is Using?
+## What is Wrong with my LAMP? and Isn't PHP What *Everyone* is Using?
 
 ### Facts
+
+PHP still accounts for 39% of the top 1M!
+![PHP Dominates the Web](http://i.imgur.com/i9lokEE.png "PHP Still Dominates!")
 
 #### Pros:
 - PHP made much of the web possible.
