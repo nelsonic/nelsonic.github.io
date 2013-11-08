@@ -3,13 +3,14 @@
 
 10kh - Ten Thousand Hours
 
-## About
+# About
 
-### The 10,000 Hour Rule
+## The 10,000 Hour Rule
 
-If you haven't read Malcolm Gladwell's 2008 book Outliers,
-its a good holiday/weekend read:
+If you haven't read Malcolm Gladwell's 2008 book **Outliers**,
+its a *good* holiday/weekend *read*:
 http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922/
+http://www.goodreads.com/book/show/3228917-outliers
 
 The basic premise of the book is: 
 
@@ -26,18 +27,32 @@ I want something *way more*!
 
 Publishing information ("content") is the first part ...
 
-### Publishing Platform
+
+# Publishing Platform
 
 I've used *many* publishing platforms and not found one I **love**.
 
-#### List of Gripes with Existing Platforms
+## List of *Gripes* with Existing Platforms
 
-- 
+- Steep learning curve (e.g. Drupal!)
+- Security Bugs *Galore*!
+- Installation 
+- Lack of Unit/Regression Testing (new "features" *break* old ones!)
+- Upgrade/Patching
+- Tedious Package Management systems with poor version control
 
 
-#### List of Required Features
 
+
+## List of Required Features
+
+- Create and Edit Content in the Simplest possible way.
 - [WCAG](http://www.w3.org/TR/WCAG/) **Standards Compliant**
+- Extensively (Self) Documented
+- Built-in Training (you can only use the features you *learn* how to use).
+- Sensible Safety Nets and Sandboxes for Learners
+- Intuitive Navigation
+- Search any/all content out of the box
 - **Security** Focussed
 - **No** Download or **Installation**
 - **Offline Mode** using HTML5 Local Storage
@@ -49,21 +64,22 @@ I've used *many* publishing platforms and not found one I **love**.
 - **Translation** to any language (on-the-fly)
 - Simple/Seamless (Automatic) **Backup** of **ALL** Content
 - Intelligent **Comment**/**Discussions** on content (with *fast* moderation)
+- **Realtime Interaction** (see who else is online to know who you can chat/collaborate with)
 
 
 
-
-#### Research
+## Research
 
 - 15 **Best Blogging Platforms**: http://thenextweb.com/apps/2013/08/16/best-blogging-services/
 - 
 
 
 
+
 >> I started working on this a few years back but kept it to myself:
 https://docs.google.com/document/d/1QxVNyiuaPcZSe4qyFUejTQ84AYlcCOR0gVPrXLOy3po
 
-#### List of Web Publishing Platforms/Frameworks I've Used
+### List of Web Publishing Platforms/Frameworks I've Used
 
 - Blogger: http://www.blogger.com/features
 - Tumbler: http://www.tumblr.com/about
@@ -76,6 +92,7 @@ https://docs.google.com/document/d/1QxVNyiuaPcZSe4qyFUejTQ84AYlcCOR0gVPrXLOy3po
 - Django: https://www.djangoproject.com/
 - Express: http://expressjs.com/
 - AngularJS (for apps): http://angularjs.org/
+- BackboneJS (also for web apps): http://documentcloud.github.io/backbone/
 
  
 
