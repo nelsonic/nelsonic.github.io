@@ -42,8 +42,9 @@ I've used *many* publishing platforms and not found one I **love**.
 
 A few articles on 
 
+- How to **chose** a blogging platform: https://blog.shareaholic.com/best-blogging-platform/
 - 15 **Best Blogging Platforms**: http://thenextweb.com/apps/2013/08/16/best-blogging-services/
-- 
+
 
 
 
@@ -58,6 +59,7 @@ https://docs.google.com/document/d/1QxVNyiuaPcZSe4qyFUejTQ84AYlcCOR0gVPrXLOy3po
 - Medium: https://medium.com/product-design/8eb1b4a4d90c
 - Wordpress (.org/.com): http://wordpress.org/about/features/
 - Drupal: https://drupal.org/about
+- Joomla: http://www.joomla.org/about-joomla.html
 - Ghost: https://ghost.org/features/
 - Squarespace: http://www.squarespace.com/tour/overview/
 - Ruby-on-Rails: http://rubyonrails.org/
