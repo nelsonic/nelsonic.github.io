@@ -2,15 +2,16 @@
 
 ### Facts
 
-PHP still accounts for 39% of the top 1M!
+PHP still accounts for 39% of the top 1 Million websites!
 ![PHP Dominates the Web](http://i.imgur.com/i9lokEE.png "PHP Still Dominates!")
 http://trends.builtwith.com/framework
 
 #### Pros:
-- PHP made much of the web possible.
+- PHP **made** *much* of **the web** *possible*
 - PHP has incredibly **Low Barriers to Entry**
-- Almost all hosting companies support PHP
-- Facebook, Yahoo and Wikipedia all (*still*) run PHP (it *must* be good, right...?)
+- Almost **all hosting** companies support PHP
+- Facebook, Yahoo and **Wikipedia** all (*still*) run PHP 
+(it *must* be good, *right*...?)
 
 #### Cons:
 - PHP Sites get Hacked (a *LOT*!)
@@ -41,11 +42,14 @@ Answer: NO!
 And that's *why* I moved to building apps inside Salesforce (where testing and
 code-coverage requirements were enforced by the build system!)
 
-My (personal) verdict: PHP is a 
+My (*personal*) verdict: PHP is a 
 [poison chalice](http://idioms.thefreedictionary.com/a+poisoned+chalice)
 it has enabled many of the most successful websites to be built,
 but its continued dominance ensures that the web remains a buggy, fragile
 and unreliable place where bad people can continue to crack websites.
+
+> If you chose to keep using PHP, that's *your* decision.
+> given how buggy much of the PHP Legacy code is, I prefer to move on. ;-)
 
 ## Read More
 
