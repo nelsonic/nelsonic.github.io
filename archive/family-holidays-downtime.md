@@ -1,6 +1,12 @@
 ## Family
 
 
+- **20131226** Its not called "**Boxing Day**" in Portugal. 
+But there's a sale at almost every shop starting today.
+So heading to Ikea with mom to buy some furniture for the flat...
+Also getting internet installed in the flat today 
+so might be able to code tonight... fingers crossed.
+
 - **20131225** Chrismas day. Sick from eating *all* the *wrong* things.
 and the punishment has not ceased. 
 Next year I want to be in a Muslim country over Christmas to avoid toxifying my body.
