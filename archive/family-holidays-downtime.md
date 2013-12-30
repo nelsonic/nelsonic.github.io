@@ -1,5 +1,7 @@
 ## Family
 
+- **20131229** Sick as a dog the past few days. :-(
+Didn't even think of Code... This has not been a very productive "holiday"...
 
 - **20131226** Its not called "**Boxing Day**" in Portugal. 
 But there's a sale at almost every shop starting today.
