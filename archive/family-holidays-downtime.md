@@ -1,5 +1,8 @@
 ## Family
 
+- **20131230** Sketched out one of the diagrams for patent application today. ;-)
+Need to write a post on my thoughts on patents, trolls and innovation... #todo
+
 - **20131229** Sick as a dog the past few days. :-(
 Didn't even think of Code... This has not been a very productive "holiday"...
 
