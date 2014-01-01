@@ -1,5 +1,8 @@
 ## Family
 
+- **20131231** Spent another day DIYing (building furniture and installing lights) in
+my Mom's appartment. 3 more days in Portugal. Then back to code.
+
 - **20131230** Sketched out one of the diagrams for patent application today. ;-)
 Need to write a post on my thoughts on patents, trolls and innovation... #todo
 
