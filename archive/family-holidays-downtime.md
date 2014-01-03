@@ -1,5 +1,8 @@
 ## Family
 
+- **20140102** Today I made a point of taking everyone out of the house to get away from Moving!
+So we went to do Off-road SegWay in Sintra! pic.twitter.com/tFILY79d6a
+
 - **20131231** Spent another day DIYing (building furniture and installing lights) in
 my Mom's appartment. 3 more days in Portugal. Then back to code.
 
