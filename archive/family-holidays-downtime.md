@@ -1,5 +1,8 @@
 ## Family
 
+- **20140104** Today was dismantling the last few bits of furniture at the old flat and traveling back to london.
+tomorrow I will be back on teh codez! :-)
+
 - **20140103** Another un-productive day code-wise... spent it setting up the shelving/storage units
 in the garage so my dad has a place to store his ***ocean*** of books.
 
