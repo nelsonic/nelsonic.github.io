@@ -1,5 +1,8 @@
 ## Family
 
+- **20140103** Another un-productive day code-wise... spent it setting up the shelving/storage units
+in the garage so my dad has a place to store his ***ocean*** of books.
+
 - **20140102** Today I made a point of taking everyone out of the house to get away from Moving!
 So we went to do Off-road SegWay in Sintra! pic.twitter.com/tFILY79d6a
 
