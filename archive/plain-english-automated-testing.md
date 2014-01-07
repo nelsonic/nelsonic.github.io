@@ -151,8 +151,8 @@ expect form#login exists
 Test if a **url** is what we *expect* it to be.
 
 ```
-visit homepage
-expect form#login exists
+visit http://thisshouldfail
+expect error 404
 ```
 
 
