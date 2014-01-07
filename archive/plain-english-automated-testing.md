@@ -162,7 +162,7 @@ Test if a **value** is what we *expect* it to be.
 
 ```
 visit homepage
-expect form#login exists
+expect #nav[0] value "home"
 ```
 
 
