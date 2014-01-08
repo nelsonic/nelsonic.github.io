@@ -32,6 +32,21 @@ to define behaviour.
 13:       And something else we can check happens too
 ```
 
+## Given When Then
+
+- **Given** puts the system in a **known state**
+- **When** describes the **key action**
+- **Then** observe outcomes (what we **expect** to happen)
+
+These words are well established, so we will adopt them as core vocabulary.
+
+
+### Further Reading
+
+- Good *intro* to **Given When Then**: https://github.com/cucumber/cucumber/wiki/Given-When-Then
+- BDD: http://en.wikipedia.org/wiki/Behavior-driven_development
+- Truth about BDD: https://sites.google.com/site/unclebobconsultingllc/the-truth-about-bdd
+
 
 ## Verbs
 
@@ -40,13 +55,14 @@ to define behaviour.
 **visit url** changes the **window.location** to a new url
 in most cases this will only be used at the start of a scenario
 e.g. **visit /login** starts us off on the login "page" (method)
+But we could also use it to test when data has been added/updated
 
 Examples:
 ```
-visit homepage
-visit myapp.com
-visit http://myapp.com
-visit http://wwww.myapp.com/this/that/page.html
+visit homepage          // this requires config/variables
+visit myapp.com         // defaults to http protocol (unless defined in cofig)
+visit http://myapp.com  // can define a fully qualified url
+visit http://wwww.myapp.com/this/that/page.html // or verbose/specific page
 ```
 
 ### click
@@ -171,5 +187,4 @@ notes:
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list#Forms
 
 
-- Cucumber JS: http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/
-- http://en.wikipedia.org/wiki/Behavior-driven_development
+- Cucumber **JS**: http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/
