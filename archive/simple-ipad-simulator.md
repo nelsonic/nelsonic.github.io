@@ -27,4 +27,4 @@ Here's the code:
 </html>
 ```
 
-And an example: http://nelsonic.s3.amazonaws.com/learn-phantom/examples/project/index.html
+And an example: http://nelsonic.s3.amazonaws.com/mobile-viewer/example/demo.html

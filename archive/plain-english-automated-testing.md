@@ -186,5 +186,7 @@ notes:
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list#Forms
 
-
-- Cucumber **JS**: http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/
+- Cucumber intro: https://github.com/cucumber/cucumber/wiki/Feature-Introduction
+- Cucumber **JS**: https://github.com/cucumber/cucumber-js and http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/
+- Selenium Documentation: http://docs.seleniumhq.org/docs/
+- Cucumber vs Selenium: http://stackoverflow.com/questions/11349369/cucumber-capybara-vs-selenium
