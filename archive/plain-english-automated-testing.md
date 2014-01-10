@@ -1,36 +1,5 @@
 Before I forget I want to write this down ...
 
-## Background
-
-I've dedicated the last **3 years** to learning *several* Unit/Functional and 
-Browser Testing frameworks and *none* of them jump out as *user friendly*.
-
-I want ordinary non-technical users to be able to read/understand *exactly*
-what the software they are using is doing and allow them to define 
-*new* features in ***plain english***. (yes, this all ties into ideaQ ...)
-
-My favorite testing framework in the Ruby world is 
-[Cucumber](http://cukes.info/) which uses the 
-[Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) language 
-to define behaviour. 
-
-### Gherkin Example: *Given When Then*
-
-```
- 1: Feature: Some terse yet descriptive text of what is desired
- 2:   Textual description of the business value of this feature
- 3:   Business rules that govern the scope of the feature
- 4:   Any additional information that will make the feature easier to understand
- 5: 
- 6:   Scenario: Some determinable business situation
- 7:     Given some precondition
- 8:       And some other precondition
- 9:      When some action by the actor
-10:       And some other action
-11:       And yet another action
-12:      Then some testable outcome is achieved
-13:       And something else we can check happens too
-```
 
 ## Given When Then
 
@@ -48,7 +17,42 @@ These words are well established, so we will adopt them as core vocabulary.
 - Truth about BDD: https://sites.google.com/site/unclebobconsultingllc/the-truth-about-bdd
 
 
-## Verbs
+# Words
+
+## Setup
+
+We need a way to *differentiate** between a script that is a recording of
+"real" interaction and one that is merely a "test".
+
+### given
+
+**given** lets us define a state. e.g:
+
+```
+given homepage
+when anonymous_user visit /register
+then expect #registration-form
+```
+
+*Later* we will allow the combination (or *composing*) of scripts.
+This will allow us to save a script in the form of 
+`logged_in_as email@example.com` 
+which will spell out the steps required to log a specific user in.
+e.g:
+```
+given homepage
+when anonymous_user visit /register
+then expect #registration-form
+```
+
+
+
+here I've alluded to the possibility of defining a state.
+we need a way of naming a script or set of actions.
+
+
+## Verbs (do something)
+
 
 ### visit
 
@@ -182,7 +186,42 @@ expect #nav[0] value "home"
 ```
 
 
+## Background
+
+I've dedicated the last **3 years** to learning *several* Unit/Functional and 
+Browser Testing frameworks and *none* of them jump out as *user friendly*.
+
+I want ordinary non-technical users to be able to read/understand *exactly*
+what the software they are using is doing and allow them to define 
+*new* features in ***plain english***. (yes, this all ties into ideaQ ...)
+
+My favorite testing framework in the Ruby world is 
+[Cucumber](http://cukes.info/) which uses the 
+[Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) language 
+to define behaviour. 
+
+### Gherkin Example: *Given When Then*
+
+```
+ 1: Feature: Some terse yet descriptive text of what is desired
+ 2:   Textual description of the business value of this feature
+ 3:   Business rules that govern the scope of the feature
+ 4:   Any additional information that will make the feature easier to understand
+ 5: 
+ 6:   Scenario: Some determinable business situation
+ 7:     Given some precondition
+ 8:       And some other precondition
+ 9:      When some action by the actor
+10:       And some other action
+11:       And yet another action
+12:      Then some testable outcome is achieved
+13:       And something else we can check happens too
+```
+
 notes:
+
+- Domain Specific Language (DSL): http://en.wikipedia.org/wiki/Domain-specific_language
+
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms_in_HTML
 - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list#Forms
 
@@ -190,3 +229,4 @@ notes:
 - Cucumber **JS**: https://github.com/cucumber/cucumber-js and http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/
 - Selenium Documentation: http://docs.seleniumhq.org/docs/
 - Cucumber vs Selenium: http://stackoverflow.com/questions/11349369/cucumber-capybara-vs-selenium
+- Capybara: http://jnicklas.github.io/capybara/
