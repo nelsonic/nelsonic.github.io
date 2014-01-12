@@ -1,5 +1,10 @@
 ## Family
 
+- **20140111** Spent another day helping my mom set up her new flat 
+and *finally* got her to focus on setting up the domain + website for her idea: http://after4.org/
+only a basic wordpress site right now, but will be an after-school activities website.
+Brain frazled so not writing any code for my project today. :-( sleep well world. ;-)
+
 - **20140104** Today was dismantling the last few bits of furniture at the old flat and traveling back to london.
 tomorrow I will be back on teh codez! :-)
 
