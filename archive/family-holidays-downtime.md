@@ -1,5 +1,8 @@
 ## Family
 
+- **20140112** today was my parents' 37th wedding anniversary. no celebration. simple lunch.
+I spent the afternoon teaching my mom wordpress... I *really* dislike wordpress. :-(
+
 - **20140111** Spent another day helping my mom set up her new flat 
 and *finally* got her to focus on setting up the domain + website for her idea: http://after4.org/
 only a basic wordpress site right now, but will be an after-school activities website.
