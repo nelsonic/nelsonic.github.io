@@ -59,7 +59,7 @@ As you can see from these two simple snippets the **Markdown** version is
 
 ## Get Started
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://player.vimeo.com/video/62604492)
+[![ScreenShot](http://i.imgur.com/HxHxpvT.png)](http://player.vimeo.com/video/62604492)
 
 <iframe src="//player.vimeo.com/video/62604492" width="500" height="281"></iframe>
 
