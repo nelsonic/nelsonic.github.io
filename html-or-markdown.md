@@ -30,6 +30,7 @@ displayed in a web browser.
 ```
 
 
+
 ### markdown
 
 Markdown is a plain text format/syntax designed so that it can 
@@ -40,6 +41,8 @@ quick creation of rich text documents.
 
 - http://en.wikipedia.org/wiki/Markdown
 - http://whatismarkdown.com/
+- Original project: https://daringfireball.net/projects/markdown/
+
 
 ```markdown
 # This is a Heading
@@ -53,3 +56,10 @@ This is a paragraph with a
 
 As you can see from these two simple snippets the **Markdown** version is
 **simple** and (once you understand the syntax) faster to read and write.
+
+## Get Started
+
+<iframe src="//player.vimeo.com/video/62604492" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+- I "get" markdown: http://mikemclin.net/markdown-syntax-language/
+- Cheat Sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
