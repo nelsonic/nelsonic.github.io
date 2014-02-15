@@ -1,18 +1,28 @@
-# html or markdown ?
+html or markdown ?
+==================
 
-## Intro
+Intro
+-----
 
-**Q**: Should I learn markup when html is the language of the web...? <br />
+**Q**: Should I ***learn markdown***? <br />
 **A**: (short) Yes.
        (long) markdown can simplify your life many instances.
        its essential for writing readme (documentation) on GitHub
        and can be used in several commenting systems and blogging engines.
+
+**Q**: Isnt **html** is the *language* of the web...? <br />
+**A**: Yes. html is still the language used to display web pages
+	   and is likely to be for the foreseabl future. 
+	   The beauty is markdown simplifies writing for the web
+	   while allowing you to easily convert to html.
 
 ### html
 
 *H*yperText *M*arkup *L*anguage is the main markup language 
 for creating web pages and other information that can be 
 displayed in a web browser.
+
+example:
 
 ```html
 <!DOCTYPE html>
@@ -41,21 +51,23 @@ quick creation of rich text documents.
 
 - http://en.wikipedia.org/wiki/Markdown
 - http://whatismarkdown.com/
-- Original project: https://daringfireball.net/projects/markdown/
+- Original project philosophy: https://daringfireball.net/projects/markdown/
 
+example (will produce equivalent html to above):
 
 ```markdown
-# This is a Heading
+This is a Heading
+=================
 
 This is a paragraph with a 
 [link](http://en.wikipedia.org/wiki/Hyperlink)
-
 ```
 
 ### Comparison
 
 As you can see from these two simple snippets the **Markdown** version is
-**simple** and (once you understand the syntax) faster to read and write.
+**simple** and <br />
+(once you understand the syntax) faster to read and write.
 
 ## Get Started
 
@@ -67,3 +79,4 @@ Watch this intro video: <br />
 - Cheat Sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Why markdown is better
 http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes
+- Mastering Markdown: http://designshack.net/articles/html/mastering-markdown-30-resources-apps-and-tutorials-to-get-you-started/
