@@ -2,7 +2,7 @@
 
 ## Intro
 
-**Q**: Should I learn markup when html is the language of the web...?
+**Q**: Should I learn markup when html is the language of the web...? <br />
 **A**: (short) Yes.
        (long) markdown can simplify your life many instances.
        its essential for writing readme (documentation) on GitHub
@@ -59,9 +59,9 @@ As you can see from these two simple snippets the **Markdown** version is
 
 ## Get Started
 
-[![ScreenShot](http://i.imgur.com/HxHxpvT.png)](http://player.vimeo.com/video/62604492)
+Watch this intro video: <br />
 
-<iframe src="//player.vimeo.com/video/62604492" width="500" height="281"></iframe>
+[![ScreenShot](http://i.imgur.com/9DKBmmP.png =250x)](http://player.vimeo.com/video/62604492)
 
 - I "get" markdown: http://mikemclin.net/markdown-syntax-language/
 - Cheat Sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
