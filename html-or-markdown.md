@@ -59,7 +59,7 @@ As you can see from these two simple snippets the **Markdown** version is
 
 ## Get Started
 
-<iframe src="//player.vimeo.com/video/62604492" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/62604492" width="500" height="281"></iframe>
 
 - I "get" markdown: http://mikemclin.net/markdown-syntax-language/
 - Cheat Sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
