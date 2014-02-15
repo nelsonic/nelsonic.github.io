@@ -59,7 +59,11 @@ As you can see from these two simple snippets the **Markdown** version is
 
 ## Get Started
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://player.vimeo.com/video/62604492)
+
 <iframe src="//player.vimeo.com/video/62604492" width="500" height="281"></iframe>
 
 - I "get" markdown: http://mikemclin.net/markdown-syntax-language/
 - Cheat Sheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Why markdown is better
+http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes
