@@ -1,4 +1,3 @@
-
 ### 20140213
 
 Spent the evening reacquainting myself with [Meteor](https://www.meteor.com/)
@@ -9,6 +8,8 @@ And made: http://epoll2.meteor.com/
 
 ![Poll Meteor Example](http://i.imgur.com/IVRa1Pi.png "Poll Meteor Example")
 
-#***GreatSuccesss*** :-)
+***GreatSuccesss*** :-)
 
-> App Keys: https://apps.twitter.com/app/5807323/keys
+- App Keys: https://apps.twitter.com/app/5807323/keys
+
+>> https://www.meteor.com/learn-meteor
