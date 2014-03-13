@@ -4,10 +4,14 @@
   <meta charset="utf-8">
   <title>Plain English Software Testing</title>
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <style>
+  	body { max-width: 70%; margin-left:15%;}
+  </style>
 </head>
 <body>
 
-<p>Before I forget I want to write this down ...</p>
+<p>Before I forget I want to write this down ... 
+	I want to craft a testing micro-language that absolute beginners can understand in under 10 minutes.</p>
 
 <h2>Given When Then</h2>
 
@@ -78,7 +82,7 @@ visit http://wwww.myapp.com/this/that/page.html // or verbose/specific page
 <h3>click</h3>
 
 <p><strong>click #link</strong> is a more human-readable version of $("#link").click();
-Works with <em>both</em> <strong><a></strong> (link) and a <strong><button></strong> html elements.</p>
+Works with <em>both</em> <strong>&lt;a&gt;</strong> (link) and a <strong>&lt;button&gt;</strong> html elements.</p>
 
 <p>Examples:
 <code>
@@ -92,7 +96,7 @@ click "link text"  // finds link by text and clicks it
 <h3>select + option</h3>
 
 <p><strong>select #selectid option "optiontext"</strong>
-Allows us to target a <strong><select></strong> based on its <strong>name</strong> and/or <strong>id</strong>.
+Allows us to target a <strong>&lt;select&gt;</strong> based on its <strong>name</strong> and/or <strong>id</strong>.
 (as usual I prefer to use ids because they are unique)</p>
 
 <p>Sample HTML:</p>
