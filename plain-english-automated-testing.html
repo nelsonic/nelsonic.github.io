@@ -1,0 +1,226 @@
+<p>Before I forget I want to write this down ...</p>
+
+<h2>Given When Then</h2>
+
+<ul>
+<li><strong>Given</strong> puts the system in a <strong>known state</strong></li>
+<li><strong>When</strong> describes the <strong>key action</strong></li>
+<li><strong>Then</strong> observe outcomes (what we <strong>expect</strong> to happen)</li>
+</ul>
+
+<p>These words are well established, so we will adopt them as core vocabulary.</p>
+
+<h3>Further Reading</h3>
+
+<ul>
+<li>Good <em>intro</em> to <strong>Given When Then</strong>: https://github.com/cucumber/cucumber/wiki/Given-When-Then</li>
+<li>BDD: http://en.wikipedia.org/wiki/Behavior-driven_development</li>
+<li>Truth about BDD: https://sites.google.com/site/unclebobconsultingllc/the-truth-about-bdd</li>
+</ul>
+
+<h1>Words</h1>
+
+<h2>Setup</h2>
+
+<p>We need a way to <em>differentiate</em>* between a script that is a recording of
+"real" interaction and one that is merely a "test".</p>
+
+<h3>given</h3>
+
+<p><strong>given</strong> lets us define a state. e.g:</p>
+
+<p><code>
+given homepage
+when anonymous_user visit /register
+then expect #registration-form
+</code></p>
+
+<p><em>Later</em> we will allow the combination (or <em>composing</em>) of scripts.
+This will allow us to save a script in the form of 
+<code>logged_in_as email@example.com</code> 
+which will spell out the steps required to log a specific user in.
+e.g:
+<code>
+given homepage
+when anonymous_user visit /register
+then expect #registration-form
+</code></p>
+
+<p>here I've alluded to the possibility of defining a state.
+we need a way of naming a script or set of actions.</p>
+
+<h2>Verbs (do something)</h2>
+
+<h3>visit</h3>
+
+<p><strong>visit url</strong> changes the <strong>window.location</strong> to a new url
+in most cases this will only be used at the start of a scenario
+e.g. <strong>visit /login</strong> starts us off on the login "page" (method)
+But we could also use it to test when data has been added/updated</p>
+
+<p>Examples:
+<code>
+visit homepage          // this requires config/variables
+visit myapp.com         // defaults to http protocol (unless defined in cofig)
+visit http://myapp.com  // can define a fully qualified url
+visit http://wwww.myapp.com/this/that/page.html // or verbose/specific page
+</code></p>
+
+<h3>click</h3>
+
+<p><strong>click #link</strong> is a more human-readable version of $("#link").click();
+Works with <em>both</em> <strong><a></strong> (link) and a <strong><button></strong> html elements.</p>
+
+<p>Examples:
+<code>
+click #linkid      // finds element by id and clicks on it
+click .linkclass   // not sure about classes ...
+click "link text"  // finds link by text and clicks it
+</code></p>
+
+<h3>form</h3>
+
+<h3>select + option</h3>
+
+<p><strong>select #selectid option "optiontext"</strong>
+Allows us to target a <strong><select></strong> based on its <strong>name</strong> and/or <strong>id</strong>.
+(as usual I prefer to use ids because they are unique)</p>
+
+<p>Sample HTML:</p>
+
+<p><code>html
+&lt;select name="selectname" id="selectid"&gt;
+  &lt;option value="value1"&gt;Value 1&lt;/option&gt; 
+  &lt;option value="value2" selected&gt;Value 2&lt;/option&gt;
+  &lt;option value="value3"&gt;Value 3&lt;/option&gt;
+&lt;/select&gt;
+</code></p>
+
+<p>example usage:
+<code>
+select #selectid option "value1"     // target select by id
+select "selectname" option "value2"  // target select by name
+</code></p>
+
+<p>see: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select</p>
+
+<h3>input + value</h3>
+
+<p><strong>input #inputid value "text here"</strong> I'm undecided on the quotes for string
+but I think double quotes around space-separated strings are 
+<em>probably</em> the way to go.</p>
+
+<h3>checkbox + checked/unchecked</h3>
+
+<p><strong>checkbox #checkboxid checked</strong> allows us to target a specific checkbox
+by its element id and either marke it as <strong>checked</strong> or <strong>unchecked</strong></p>
+
+<p>example:
+<code>
+checkbox #checkboxid checked
+checkbox #checkboxid unchecked
+</code></p>
+
+<h3>radio + checked</h3>
+
+<p><strong>radio #red checked</strong> lets us pick a radio option.</p>
+
+<p><code>
+  &lt;label for="red"&gt;Red&lt;/label&gt;
+  &lt;input type="radio" id="red" label="Red" accesskey="R" name="color"/&gt;
+  &lt;label for="green"&gt;Green&lt;/label&gt;
+  &lt;input type="radio" id="green" label="Green"  accesskey="G" selected="true" name="color"/&gt;
+  &lt;label for="blue"&gt;Blue&lt;/label&gt;
+  &lt;input type="radio" id="blue" label="Blue"  accesskey="B" name="color"/&gt;
+</code></p>
+
+<h3>submit</h3>
+
+<p>Submit a specific form.
+I've seen plenty of web sites/pages with multiple forms on a single html page.
+E.g. a login, search and contact form on the same page.
+We need a logical way of submitting the desired form.</p>
+
+<p><code>
+submit #formid
+</code>
+This is <em>not a priority</em>. We can just do <strong>click #submit</strong>.</p>
+
+<h2>Expect(ations)</h2>
+
+<p>Once we have performed a set of actions we want to <strong>test</strong> what we expect
+to "see" on the page. e.g. text or state has changed.</p>
+
+<h3>exists</h3>
+
+<p>tests for the existence of a DOM element with a specific id.</p>
+
+<p>example:
+<code>
+visit homepage
+expect form#login exists
+</code></p>
+
+<h3>url</h3>
+
+<p>Test if a <strong>url</strong> is what we <em>expect</em> it to be.</p>
+
+<p><code>
+visit http://thisshouldfail
+expect error 404
+</code></p>
+
+<h3>value</h3>
+
+<p>Test if a <strong>value</strong> is what we <em>expect</em> it to be.</p>
+
+<p><code>
+visit homepage
+expect #nav[0] value "home"
+</code></p>
+
+<h2>Background</h2>
+
+<p>I've dedicated the last <strong>3 years</strong> to learning <em>several</em> Unit/Functional and 
+Browser Testing frameworks and <em>none</em> of them jump out as <em>user friendly</em>.</p>
+
+<p>I want ordinary non-technical users to be able to read/understand <em>exactly</em>
+what the software they are using is doing and allow them to define 
+<em>new</em> features in <strong><em>plain english</em></strong>. (yes, this all ties into ideaQ ...)</p>
+
+<p>My favorite testing framework in the Ruby world is 
+<a href="http://cukes.info/">Cucumber</a> which uses the 
+<a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> language 
+to define behaviour. </p>
+
+<h3>Gherkin Example: <em>Given When Then</em></h3>
+
+<p><code>
+ 1: Feature: Some terse yet descriptive text of what is desired
+ 2:   Textual description of the business value of this feature
+ 3:   Business rules that govern the scope of the feature
+ 4:   Any additional information that will make the feature easier to understand
+ 5: 
+ 6:   Scenario: Some determinable business situation
+ 7:     Given some precondition
+ 8:       And some other precondition
+ 9:      When some action by the actor
+10:       And some other action
+11:       And yet another action
+12:      Then some testable outcome is achieved
+13:       And something else we can check happens too
+</code></p>
+
+<p>notes:</p>
+
+<ul>
+<li><p>Domain Specific Language (DSL): http://en.wikipedia.org/wiki/Domain-specific_language</p></li>
+<li><p>https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms<em>in</em>HTML</p></li>
+<li><p>https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5<em>element</em>list#Forms</p></li>
+<li><p>Cucumber intro: https://github.com/cucumber/cucumber/wiki/Feature-Introduction</p></li>
+<li>Cucumber <strong>JS</strong>: https://github.com/cucumber/cucumber-js and http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/</li>
+<li>Selenium Documentation: http://docs.seleniumhq.org/docs/</li>
+<li>Cucumber vs Selenium: http://stackoverflow.com/questions/11349369/cucumber-capybara-vs-selenium</li>
+<li>Capybara: http://jnicklas.github.io/capybara/</li>
+</ul>
+
