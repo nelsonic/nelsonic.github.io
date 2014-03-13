@@ -10,6 +10,8 @@
 </head>
 <body>
 
+<h1>What if we could simplify writing tests?</h1>
+
 <p>Before I forget I want to write this down ... 
 	I want to craft a testing micro-language that absolute beginners can understand in under 10 minutes.</p>
 
@@ -71,25 +73,25 @@ in most cases this will only be used at the start of a scenario
 e.g. <strong>visit /login</strong> starts us off on the login "page" (method)
 But we could also use it to test when data has been added/updated</p>
 
-<p>Examples:
+<p>Examples:</p>
 <code>
 visit homepage          // this requires config/variables
 visit myapp.com         // defaults to http protocol (unless defined in cofig)
 visit http://myapp.com  // can define a fully qualified url
 visit http://wwww.myapp.com/this/that/page.html // or verbose/specific page
-</code></p>
+</code>
 
 <h3>click</h3>
 
 <p><strong>click #link</strong> is a more human-readable version of $("#link").click();
 Works with <em>both</em> <strong>&lt;a&gt;</strong> (link) and a <strong>&lt;button&gt;</strong> html elements.</p>
 
-<p>Examples:
+<p>Examples:</p>
 <code>
 click #linkid      // finds element by id and clicks on it
 click .linkclass   // not sure about classes ...
 click "link text"  // finds link by text and clicks it
-</code></p>
+</code>
 
 <h3>form</h3>
 
@@ -101,19 +103,19 @@ Allows us to target a <strong>&lt;select&gt;</strong> based on its <strong>name<
 
 <p>Sample HTML:</p>
 
-<p><code>html
+<code>
 &lt;select name="selectname" id="selectid"&gt;
   &lt;option value="value1"&gt;Value 1&lt;/option&gt; 
   &lt;option value="value2" selected&gt;Value 2&lt;/option&gt;
   &lt;option value="value3"&gt;Value 3&lt;/option&gt;
 &lt;/select&gt;
-</code></p>
+</code>
 
-<p>example usage:
+<p>example usage:</p>
 <code>
 select #selectid option "value1"     // target select by id
 select "selectname" option "value2"  // target select by name
-</code></p>
+</code>
 
 <p>see: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select</p>
 
@@ -128,24 +130,24 @@ but I think double quotes around space-separated strings are
 <p><strong>checkbox #checkboxid checked</strong> allows us to target a specific checkbox
 by its element id and either marke it as <strong>checked</strong> or <strong>unchecked</strong></p>
 
-<p>example:
+<p>example:</p>
 <code>
 checkbox #checkboxid checked
 checkbox #checkboxid unchecked
-</code></p>
+</code>
 
 <h3>radio + checked</h3>
 
 <p><strong>radio #red checked</strong> lets us pick a radio option.</p>
 
-<p><code>
+<code>
   &lt;label for="red"&gt;Red&lt;/label&gt;
   &lt;input type="radio" id="red" label="Red" accesskey="R" name="color"/&gt;
   &lt;label for="green"&gt;Green&lt;/label&gt;
   &lt;input type="radio" id="green" label="Green"  accesskey="G" selected="true" name="color"/&gt;
   &lt;label for="blue"&gt;Blue&lt;/label&gt;
   &lt;input type="radio" id="blue" label="Blue"  accesskey="B" name="color"/&gt;
-</code></p>
+</code>
 
 <h3>submit</h3>
 
@@ -154,10 +156,10 @@ I've seen plenty of web sites/pages with multiple forms on a single html page.
 E.g. a login, search and contact form on the same page.
 We need a logical way of submitting the desired form.</p>
 
-<p><code>
+<code>
 submit #formid
 </code>
-This is <em>not a priority</em>. We can just do <strong>click #submit</strong>.</p>
+<p>This is <em>not a priority</em>. We can just do <strong>click #submit</strong>.</p>
 
 <h2>Expect(ations)</h2>
 
@@ -168,29 +170,29 @@ to "see" on the page. e.g. text or state has changed.</p>
 
 <p>tests for the existence of a DOM element with a specific id.</p>
 
-<p>example:
+<p>example:</p>
 <code>
 visit homepage
 expect form#login exists
-</code></p>
+</code>
 
 <h3>url</h3>
 
 <p>Test if a <strong>url</strong> is what we <em>expect</em> it to be.</p>
 
-<p><code>
+<code>
 visit http://thisshouldfail
 expect error 404
-</code></p>
+</code>
 
 <h3>value</h3>
 
 <p>Test if a <strong>value</strong> is what we <em>expect</em> it to be.</p>
 
-<p><code>
+<code>
 visit homepage
 expect #nav[0] value "home"
-</code></p>
+</code>
 
 <h2>Background</h2>
 
@@ -208,7 +210,7 @@ to define behaviour. </p>
 
 <h3>Gherkin Example: <em>Given When Then</em></h3>
 
-<p><code>
+<code>
  1: Feature: Some terse yet descriptive text of what is desired
  2:   Textual description of the business value of this feature
  3:   Business rules that govern the scope of the feature
@@ -222,9 +224,9 @@ to define behaviour. </p>
 11:       And yet another action
 12:      Then some testable outcome is achieved
 13:       And something else we can check happens too
-</code></p>
+</code>
 
-<p>notes:</p>
+<h3>A few notes:</h3>
 
 <ul>
 <li><p>Domain Specific Language (DSL): http://en.wikipedia.org/wiki/Domain-specific_language</p></li>
