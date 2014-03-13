@@ -5,15 +5,27 @@
   <title>Plain English Software Testing</title>
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <style>
-  	body { max-width: 70%; margin-left:15%;}
+  	body { max-width: 60%; margin-left:20%;}
   </style>
 </head>
 <body>
 
 <h1>What if we could simplify writing tests?</h1>
 
-<p>Before I forget I want to write this down ... 
-	I want to craft a testing micro-language that absolute beginners can understand in under 10 minutes.</p>
+<h2>Background</h2>
+
+<p>I've dedicated the last <strong>3 years</strong> to learning <em>several</em> Unit/Functional and 
+Browser Testing frameworks and <em>none</em> of them jump out as <em>user friendly</em>.</p>
+
+<p>I want ordinary non-technical users to be able to read/understand <em>exactly</em>
+what the software they are using is doing and allow them to define 
+<em>new</em> features in <strong><em>plain english</em></strong>. (yes, this all ties into ideaQ ...)</p>
+
+<p>My favorite testing framework in the Ruby world is 
+<a href="http://cukes.info/">Cucumber</a> which uses the 
+<a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> language 
+to define behaviour. </p>
+
 
 <h2>Given When Then</h2>
 
@@ -33,7 +45,7 @@
 <li>Truth about BDD: https://sites.google.com/site/unclebobconsultingllc/the-truth-about-bdd</li>
 </ul>
 
-<h1>Words</h1>
+<h1>Vocabulary</h1>
 
 <h2>Setup</h2>
 
@@ -44,22 +56,22 @@
 
 <p><strong>given</strong> lets us define a state. e.g:</p>
 
-<p><code>
+<pre>
 given homepage
 when anonymous_user visit /register
 then expect #registration-form
-</code></p>
+</pre>
 
 <p><em>Later</em> we will allow the combination (or <em>composing</em>) of scripts.
 This will allow us to save a script in the form of 
-<code>logged_in_as email@example.com</code> 
+<pre>logged_in_as email@example.com</pre> 
 which will spell out the steps required to log a specific user in.
 e.g:
-<code>
+<pre>
 given homepage
 when anonymous_user visit /register
 then expect #registration-form
-</code></p>
+</pre></p>
 
 <p>here I've alluded to the possibility of defining a state.
 we need a way of naming a script or set of actions.</p>
@@ -74,12 +86,12 @@ e.g. <strong>visit /login</strong> starts us off on the login "page" (method)
 But we could also use it to test when data has been added/updated</p>
 
 <p>Examples:</p>
-<code>
+<pre>
 visit homepage          // this requires config/variables
 visit myapp.com         // defaults to http protocol (unless defined in cofig)
 visit http://myapp.com  // can define a fully qualified url
 visit http://wwww.myapp.com/this/that/page.html // or verbose/specific page
-</code>
+</pre>
 
 <h3>click</h3>
 
@@ -87,11 +99,11 @@ visit http://wwww.myapp.com/this/that/page.html // or verbose/specific page
 Works with <em>both</em> <strong>&lt;a&gt;</strong> (link) and a <strong>&lt;button&gt;</strong> html elements.</p>
 
 <p>Examples:</p>
-<code>
+<pre>
 click #linkid      // finds element by id and clicks on it
 click .linkclass   // not sure about classes ...
 click "link text"  // finds link by text and clicks it
-</code>
+</pre>
 
 <h3>form</h3>
 
@@ -103,19 +115,19 @@ Allows us to target a <strong>&lt;select&gt;</strong> based on its <strong>name<
 
 <p>Sample HTML:</p>
 
-<code>
+<pre>
 &lt;select name="selectname" id="selectid"&gt;
   &lt;option value="value1"&gt;Value 1&lt;/option&gt; 
   &lt;option value="value2" selected&gt;Value 2&lt;/option&gt;
   &lt;option value="value3"&gt;Value 3&lt;/option&gt;
 &lt;/select&gt;
-</code>
+</pre>
 
 <p>example usage:</p>
-<code>
+<pre>
 select #selectid option "value1"     // target select by id
 select "selectname" option "value2"  // target select by name
-</code>
+</pre>
 
 <p>see: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select</p>
 
@@ -131,23 +143,23 @@ but I think double quotes around space-separated strings are
 by its element id and either marke it as <strong>checked</strong> or <strong>unchecked</strong></p>
 
 <p>example:</p>
-<code>
+<pre>
 checkbox #checkboxid checked
 checkbox #checkboxid unchecked
-</code>
+</pre>
 
 <h3>radio + checked</h3>
 
 <p><strong>radio #red checked</strong> lets us pick a radio option.</p>
 
-<code>
+<pre>
   &lt;label for="red"&gt;Red&lt;/label&gt;
   &lt;input type="radio" id="red" label="Red" accesskey="R" name="color"/&gt;
   &lt;label for="green"&gt;Green&lt;/label&gt;
   &lt;input type="radio" id="green" label="Green"  accesskey="G" selected="true" name="color"/&gt;
   &lt;label for="blue"&gt;Blue&lt;/label&gt;
   &lt;input type="radio" id="blue" label="Blue"  accesskey="B" name="color"/&gt;
-</code>
+</pre>
 
 <h3>submit</h3>
 
@@ -156,9 +168,9 @@ I've seen plenty of web sites/pages with multiple forms on a single html page.
 E.g. a login, search and contact form on the same page.
 We need a logical way of submitting the desired form.</p>
 
-<code>
+<pre>
 submit #formid
-</code>
+</pre>
 <p>This is <em>not a priority</em>. We can just do <strong>click #submit</strong>.</p>
 
 <h2>Expect(ations)</h2>
@@ -171,46 +183,34 @@ to "see" on the page. e.g. text or state has changed.</p>
 <p>tests for the existence of a DOM element with a specific id.</p>
 
 <p>example:</p>
-<code>
+<pre>
 visit homepage
 expect form#login exists
-</code>
+</pre>
 
 <h3>url</h3>
 
 <p>Test if a <strong>url</strong> is what we <em>expect</em> it to be.</p>
 
-<code>
+<pre>
 visit http://thisshouldfail
 expect error 404
-</code>
+</pre>
 
 <h3>value</h3>
 
 <p>Test if a <strong>value</strong> is what we <em>expect</em> it to be.</p>
 
-<code>
+<pre>
 visit homepage
 expect #nav[0] value "home"
-</code>
+</pre>
 
-<h2>Background</h2>
-
-<p>I've dedicated the last <strong>3 years</strong> to learning <em>several</em> Unit/Functional and 
-Browser Testing frameworks and <em>none</em> of them jump out as <em>user friendly</em>.</p>
-
-<p>I want ordinary non-technical users to be able to read/understand <em>exactly</em>
-what the software they are using is doing and allow them to define 
-<em>new</em> features in <strong><em>plain english</em></strong>. (yes, this all ties into ideaQ ...)</p>
-
-<p>My favorite testing framework in the Ruby world is 
-<a href="http://cukes.info/">Cucumber</a> which uses the 
-<a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> language 
-to define behaviour. </p>
+<hr />
 
 <h3>Gherkin Example: <em>Given When Then</em></h3>
 
-<code>
+<pre>
  1: Feature: Some terse yet descriptive text of what is desired
  2:   Textual description of the business value of this feature
  3:   Business rules that govern the scope of the feature
@@ -224,7 +224,7 @@ to define behaviour. </p>
 11:       And yet another action
 12:      Then some testable outcome is achieved
 13:       And something else we can check happens too
-</code>
+</pre>
 
 <h3>A few notes:</h3>
 
