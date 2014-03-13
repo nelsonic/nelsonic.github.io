@@ -5,17 +5,26 @@
   <title>Plain English Software Testing</title>
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <style>
-  	body { max-width: 60%; margin-left:20%;}
+  	#body {width: 100%; margin-top: 0; text-align: justify;}
+  	#intro {font-size: 3em; padding: 1em 0em 1em 20%; background-color: #303030; margin-top: 0;}
+  	#content { max-width: 55%; margin-left:20%;}
+  	.grey { color: #C6C6C6;}
+  	.mustard { color: #FFDB58;}
+  	.white {color: white;}
+  	.blue {color: #82CAFF;}
   </style>
 </head>
 <body>
 
-<h1>What if we could simplify writing tests?</h1>
 
+
+<h1 id="intro"><i class="mustard">What if</i> <i class="white">we</i> <i class="blue">simplify writing tests? </i></h1>
+
+<div id="content">
 <h2>Background</h2>
 
-<p>I've dedicated the last <strong>3 years</strong> to learning <em>several</em> Unit/Functional and 
-Browser Testing frameworks and <em>none</em> of them jump out as <em>user friendly</em>.</p>
+<p>I've dedicated the last <strong>3 years</strong> to learning <em>several</em> Unit/Functional <br />
+and Browser Testing frameworks and <em>none</em> of them jump out as <em>user friendly</em>.</p>
 
 <p>I want ordinary non-technical users to be able to read/understand <em>exactly</em>
 what the software they are using is doing and allow them to define 
@@ -238,6 +247,6 @@ expect #nav[0] value "home"
 <li>Cucumber vs Selenium: http://stackoverflow.com/questions/11349369/cucumber-capybara-vs-selenium</li>
 <li>Capybara: http://jnicklas.github.io/capybara/</li>
 </ul>
-
+</div> <!-- #content -->
 </body>
 </html>
