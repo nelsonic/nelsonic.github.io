@@ -1,8 +1,10 @@
 # Should I Learn Erlang or Stick to Node.js ?
 
+## Intro
+
 Erlang first came on my radar while reading [7L7W][]: http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X which sadly only dedicated *38 pages* to Erlang which was *barely* enough  to scratch the surface and didn't *build* anything useful.
 
-My First impressions of erlang were: this is terse and unfriendly to beginners. :anguished:
+My First impressions of erlang were: this is *terse* and *unfriendly* to beginners. :anguished:
 
 Ever since then I've been *plagued* by the thought of Erlang being "better" 
 than Node.js for "high scalability".
@@ -12,8 +14,12 @@ massive-concurrency high-availability real-time (#buzzwordfest) chat apps
 tells us they have *done* the research into the available platforms for writing chat...
 
 And then a while back @Tony called my attention to [Elixir][] 
-and it lured me back into doubt...
+and it lured me back into doubt... Elixir looks *elegant* and ticks many boxes.
 
+
+## Pros
+
+- 
 
 ## Community Discussions
 
@@ -23,6 +29,7 @@ and it lured me back into doubt...
 
 ## Erlang Resources
 
+- Watch Joe Armstrong's intro to Erlang: http://www.infoq.com/presentations/erlang-software-for-a-concurrent-world
 - An Open Letter to the Erlang Beginner: http://ferd.ca/an-open-letter-to-the-erlang-beginner-or-onlooker.html
 - Erlang – overhyped or underestimated? http://sacharya.com/erlang-overhyped-or-underestimated/
 - Straight-5-Stars book for beginning erlang: http://www.amazon.com/Learn-Erlang-Great-Beginner-27s-Guide/dp/1593274351/ (read the reviews)
