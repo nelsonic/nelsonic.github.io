@@ -23,9 +23,11 @@ and it lured me back into doubt... Elixir looks *elegant* and ticks many boxes.
 
 ## Community Discussions
 
+- Why Erlang? http://beebole.com/blog/erlang/why-erlang/
 - Why use erlang? http://stackoverflow.com/questions/1636455/where-is-erlang-used-and-why
 - Erlang vs Node (Quora): http://www.quora.com/What-are-the-pros-and-cons-of-using-Erlang-vs-Node-JS-to-develop-realtime-web-applications (no decent answers yet - might be worth replying after this investigation...)
 - Node.js vs Erlang is the wrong battle: http://jlouisramblings.blogspot.co.uk/2011/05/nodejs-vs-erlang-is-wrong-battle.html
+- "Nine Nines": http://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability
 
 ## Erlang Resources
 
@@ -35,10 +37,11 @@ and it lured me back into doubt... Elixir looks *elegant* and ticks many boxes.
 - Straight-5-Stars book for beginning erlang: http://www.amazon.com/Learn-Erlang-Great-Beginner-27s-Guide/dp/1593274351/ (read the reviews)
 - Learn You Some Erlang (free online): http://learnyousomeerlang.com/content
 - (Official) Get Started http://www.erlang.org/download/getting_started-5.4.pdf (quite dull)
+- Yet Another (good) intro to Erlang: http://www.theerlangelist.com/2012/12/yet-another-introduction-to-erlang.html
 
 [7L7W]: http://public.db0.fr/Documents/Seven.Languages.in.Seven.Weeks.pdf
 [Elixir]: http://elixir-lang.org
-
+[Yaws]: http://yaws.hyber.org/
 
 
 - HN Erlang vs. Node: https://news.ycombinator.com/item?id=1304354 (too old to be relevant)
