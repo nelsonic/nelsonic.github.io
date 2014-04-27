@@ -45,12 +45,15 @@ http://www.openwebanalytics.com/?page_id=2
 + eAnalytics: http://eanalytics.de/product/eanalytics-web-analytics.html
 (never used it. looks ok. but can't find the source without registering...)
 + Parsely.com: https://parsely.com/tour/ + https://github.com/Parsely
-+
+
 
 ### Comparative Articles
 
++ 9 Alternatives to Google Analytics:
+http://www.searchenginejournal.com/9-google-analytics-alternatives/92071/
 + http://www.sitepoint.com/5-great-google-analytics-alternatives/
 (good list of the downsides of using Google Analytics(GA))
++ OWA, Piwik and Clicky (which has a *free-usage tier* but is *not* OpenSource!) http://www.websitemagazine.com/content/blogs/posts/archive/2013/11/18/3-free-alternatives-to-google-analytics.aspx
 
 # Can we do it *better*?
 
@@ -73,11 +76,13 @@ Words we associate with analytics
 + Stats
 + Status
 + Real-time
++ [Understand](http://www.thesaurus.com/browse/understand)
 
 ## Potential Names
 
 + Insight.js (*taken*): http://scottlogic.github.io/insight/#/
 + When trying to think of a name for an Analytics platform, I liked the idea of "shedding light" (insight) ... found these guys: https://www.alightanalytics.com/ (well-established)
++ To be continued ...
 
 
 ## *Highly* (further) Recommend Reading
