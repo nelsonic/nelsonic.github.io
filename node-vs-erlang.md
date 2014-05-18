@@ -19,7 +19,7 @@ and it lured me back into doubt... Elixir looks *elegant* and ticks many boxes.
 
 ## Pros
 
-- 
+- Watch: Pros and Cons: http://www.infoq.com/presentations/Erlang-Pros-Cons
 
 ## Community Discussions
 
@@ -27,6 +27,7 @@ and it lured me back into doubt... Elixir looks *elegant* and ticks many boxes.
 - Why use erlang? http://stackoverflow.com/questions/1636455/where-is-erlang-used-and-why
 - Erlang vs Node (Quora): http://www.quora.com/What-are-the-pros-and-cons-of-using-Erlang-vs-Node-JS-to-develop-realtime-web-applications (no decent answers yet - might be worth replying after this investigation...)
 - Node.js vs Erlang is the wrong battle: http://jlouisramblings.blogspot.co.uk/2011/05/nodejs-vs-erlang-is-wrong-battle.html
+- Erlang - overhyped or underestimated: http://jlouisramblings.blogspot.co.uk/2010/12/response-to-erlang-overhyped-or.html
 - "Nine Nines": http://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability
 
 ## Erlang Resources
@@ -43,5 +44,6 @@ and it lured me back into doubt... Elixir looks *elegant* and ticks many boxes.
 [Elixir]: http://elixir-lang.org
 [Yaws]: http://yaws.hyber.org/
 
+> http://www.process-one.net/en/ejabberd/#getejabberd
 
 - HN Erlang vs. Node: https://news.ycombinator.com/item?id=1304354 (too old to be relevant)
