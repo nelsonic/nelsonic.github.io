@@ -1,5 +1,9 @@
 ## Family
 
+- **20140223** Went to visit [dscape](https://github.com/dscape) and family. 
+He's working *way* too hard on [YLD](http://www.yld.io/) but its going to Yield nicely... ;-)
+Only PeerSun code. Need to convince them to open source the project I'm working on...
+
 - **20140112** today was my parents' 37th wedding anniversary. no celebration. simple lunch.
 I spent the afternoon teaching my mom wordpress... I *really* dislike wordpress. :-(
 

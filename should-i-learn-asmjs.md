@@ -1,5 +1,5 @@
 ## Q: Should I learn asm.js?
-## A: Yes.
+## A: Not yet.
 
 
 ### Background
