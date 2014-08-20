@@ -1,4 +1,5 @@
 Logging is Awesome
+===
 
 ## Watch:
 
@@ -17,7 +18,5 @@ Try installing kibana on DigitalOcean:
 
 
 ## Investigate
-
-
 
 - [ ] http://kafka.apache.org/
