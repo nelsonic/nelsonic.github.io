@@ -3,7 +3,7 @@
 # > Work in Progress *Please ignore*!
 
 “***If you want something new,
-you have to stop doing something old***”<br />
+you have to stop doing something old***.”<br />
 ~ Peter Drucker
 
 # How do we introduce new ideas?
@@ -80,8 +80,6 @@ http://managementconsulted.com/about/dictionary
 
 ## More
 
-- If you need a laugh, find and watch **House of Lies**
-(its )
 - Watch Consulting 101: https://www.youtube.com/watch?v=4cyvmF7GD8o
 (the 5-minute version of *House of lies*)
 - Life Inside McKinsey: https://www.youtube.com/watch?v=2C5a2L5NHl0
@@ -95,8 +93,8 @@ Try Faker.js Company:
 var faker = require('faker'); // https://github.com/Marak/faker.js
 var buzzwords = []
 for(var i = 0; i < 20; i++) {
-	buzzwords.push(faker.company.bsBuzz());
+  buzzwords.push(faker.company.bsBuzz());
 }
-console.log(bswords.join(' '));
+console.log(buzzwords.join(' '));
 ```
 run it: `node faker-company.js`
