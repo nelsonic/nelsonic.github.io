@@ -1,3 +1,5 @@
+![Dilbert new Ideas](http://i.imgur.com/OoZXo9z.gif)
+
 # > Work in Progress *Please ignore*!
 
 “***If you want something new,
@@ -31,16 +33,19 @@ or *Retrospective*. (more on that last one later...)
 If you never went through the phase of showing off
 your vocabulary, bare with me for 60 seconds.
 
+<hr />
+
 ## Background
 
 ### A 5-Minute intro to Consultant Vocabulary
 
 If your *lucky* enough to work somewhere small enough
+to never have experienced "the consultants" coming in
+to tell you how to do your job.
 
-to never have experienced
-
-People who use the word "**bandwidth**" instead of capacity
-or say we need to stop "**Boiling the ocean**". <br />
+People who use the word "**bandwidth**" instead of *time*
+or say we need to stop "**Boiling the ocean**"
+to mean doing something "too difficult". <br />
 
 We need to do a "**Headcount Synergy**".
 
@@ -58,15 +63,20 @@ Lets go to town with: <br />
 
 ***Warning***: *these links are a* ***rabbit hole!***
 
-- **How To Speak** ***McKinsey***: 15 Key Phrases To Pass
-Yourself Off As A Top Management Consultant
-http://www.forbes.com/sites/brettarends/2014/06/08/how-to-speak-mckinsey-15-key-phrases-to-pass-yourself-off-as-a-top-management-consultant/
 - ***Stop using*** these **30 phrases** at work:
 https://www.linkedin.com/pulse/article/20130826001502-64875646-stop-using-these-30-phrases-at-work
 - Top **50 Business Buzzwords** of 2013:
 http://www.languagemonitor.com/top-words-2/top-50-business-buzzwords-of-2013/
 - **MBA Jargon**: http://www.johnsmurf.com/jargon.htm
-
+- List of Consulting Companies:
+http://en.wikipedia.org/wiki/List_of_management_consulting_firms
+- List of *Top* 50 consulting companies:
+http://www.vault.com/company-rankings/consulting/vault-consulting-50/
+- **How To Speak** ***McKinsey***: 15 Key Phrases To Pass
+Yourself Off As A Top Management Consultant
+http://www.forbes.com/sites/brettarends/2014/06/08/how-to-speak-mckinsey-15-key-phrases-to-pass-yourself-off-as-a-top-management-consultant/
+- Management Consulting Lingo:
+http://managementconsulted.com/about/dictionary
 
 ## More
 
