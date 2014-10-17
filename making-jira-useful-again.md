@@ -19,3 +19,10 @@ and http://whereskarlo.com/2012/11/12/jira-sucks
 ## Jira API
 
 - Node: https://github.com/steves/node-jira
+
+
+## Dashboard
+
+How does this dashboard give an overview of all the pople in a team?
+
+![JIRA Dashboard](http://i.imgur.com/CgdUZiV.png)
