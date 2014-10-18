@@ -20,3 +20,6 @@ http://www.technologyreview.com/news/531056/google-execs-have-ideas-on-how-to-ru
 http://www.amazon.co.uk/How-Google-Works-Eric-Schmidt/dp/1444792466
 
 > Need to order the book, read it and come back to this.
+
+- RockstarDevCo: http://careers.stackoverflow.com/company/rockstardevco
+(see list of "great benefits")
