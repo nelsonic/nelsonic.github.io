@@ -13,3 +13,10 @@ with alerting done by http://sensuapp.org
 http://blog.pkhamre.com/2012/07/24/understanding-statsd-and-graphite
 - *Original* Etsy Measure everything:
 http://codeascraft.com/2011/02/15/measure-anything-measure-everything
+- Presentation on Opensource loggin & monitoring tools:
+http://www.slideshare.net/Phase2Technology/open-source-logging-and-metrics-tools
+("high level" overview)
+- StatsD, what it is and how it can help you?
+https://www.datadoghq.com/2013/08/statsd
+
+>> http://www.slideshare.net/mikebrittain/metrics-driven-engineering-at-etsy
