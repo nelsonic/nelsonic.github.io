@@ -26,3 +26,6 @@ and http://whereskarlo.com/2012/11/12/jira-sucks
 How does this dashboard give an overview of all the pople in a team?
 
 ![JIRA Dashboard](http://i.imgur.com/CgdUZiV.png)
+
+
+> Answer: http://stackoverflow.com/questions/17670128/authenticate-jira-rest-api-using-oauth-with-node-js
