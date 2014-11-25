@@ -1,4 +1,4 @@
-![dilbert unspoken objectives](http://i.imgur.com/0qcFrVJ.jpg)
+
 
 We need a simple way of *tracking* if an activity is moving
 us towards (or *away* from) our *specific* goal(s).
@@ -84,12 +84,14 @@ You fail to acheive your goal, because you don't "***want it bad***".
 ## What are *My* Goals?
 
 1. Get fit
-
+2. Track time > https://github.com/nelsonic/time
 
 - - -
 
 Don't take it *too* seriously...
 
 ![dilbert stretch goals](http://i.imgur.com/ZWMKveo.png)
+
+![dilbert unspoken objectives](http://i.imgur.com/0qcFrVJ.jpg)
 
 ![dilbert goal setting](http://i.imgur.com/Rm8gG41.jpg)
