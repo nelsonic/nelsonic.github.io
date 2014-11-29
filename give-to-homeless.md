@@ -2,8 +2,10 @@
 
 Having seen a rough-sleeper this morning when I went out,
 I was wondering about about giving to homeless people...  
-My initial instinct is *yes, absolutely*! But it got me curious...
+My initial instinct is *yes* help this person!
+But I certainly don't *always* feel that way and it got me *curious*...
 
+Is it possible to *generalise* about homeless people?
 
 ## Research
 
@@ -26,9 +28,15 @@ they are picking their numbers carefully for maximum effect.
 > **Q**: Should orgnaisations like Shelter and BigIssue continue to do their great work?  
 > **A**: Absolutely!
 
-My cynicism increased after watching "**Night of the living homeless**"
+My cynicism *increased* after watching "**Night of the living homeless**"
 (South Park):
 
 ![southpark homeless](http://i.imgur.com/XdGf4gw.jpg)
 
-Yet I still feel compelled to help people who ask...
+Yet I still feel *compelled* to help people who ask...
+Is it a matter of making a *judgement* on the person?
+Should we ask ourselves: why is this person sleeping rough?
+
+Given that there are *numerous* services to help people who are sleeping rough:
+e.g: http://www.streetlink.org.uk/ or http://www.streetsoflondon.org.uk
+is there a better way to help people who are homeless?
