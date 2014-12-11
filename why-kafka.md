@@ -77,3 +77,11 @@ http://www.slideshare.net/AmazonWebServices/infrastructure-at-scale-apache-kafka
 
 - I ♥ Logs: Apache Kafka and Real-Time Data Integration
 https://www.youtube.com/watch?v=aJuo_bLSW6s
+
+
+## Kafka and Node.js
+
+- https://github.com/cainus/Prozess
+last updated 2 months ago. Build & 91% coverage. useable.
+- https://github.com/wurstmeister/node-kafka-0.8-plus
+Hasn't been updated in 11 months. has tests but no build or coverage info.
