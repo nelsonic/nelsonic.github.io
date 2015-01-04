@@ -5,7 +5,8 @@ What is Isomorphism?
 > http://en.wikipedia.org/wiki/Isomorphism
 
 - Isomorphic JavaScript: The Future of Web Apps:
-http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/
+http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/  
+Video: https://www.youtube.com/watch?v=cJQU1jS71sY
 - Charlie's 2011 article on Isomorphic JS:
 http://blog.nodejitsu.com/scaling-isomorphic-javascript-code/
 - In Pursuit of the Holy Grail: Building Isomorphic JavaScript Apps:
