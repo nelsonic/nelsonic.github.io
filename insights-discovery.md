@@ -43,9 +43,13 @@ would it be any why?
 
 + How did you get into this work?
 + How long have you been doing . . . ?
-+ What do you do in your spare time?
++ What do you do in your spare time? / What do you do for fun?
 + Where do you feel most relaxed?
-+ What is your favourite kind of music.
++ What is your favourite kind of *music*?
++ What is your ideal holiday? (surprisingly revealing)
++ What would you do if you won the *Lottery*?
+($100k, $1M, $10M, $100M)
+
 
 
 ## Background Reading
