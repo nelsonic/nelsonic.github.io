@@ -1,6 +1,6 @@
+![what's your goal?](http://i.imgur.com/INlB8bq.jpg)
 
-
-We need a simple way of *tracking* if an activity is moving
+We need a *simple* way of *tracking* if an activity is moving
 us towards (or *away* from) our *specific* goal(s).
 
 ## Background
