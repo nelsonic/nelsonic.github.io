@@ -2,7 +2,7 @@
 > **stimulates** the **creative mind***. ~Albert Einstein
 
 
-> ""***Wise men***, *when in doubt whether to speak or to keep quiet,
+> "***Wise men***, *when in doubt whether to speak or to keep quiet,
 > give themselves the benefit of the doubt, and **remain silent***."
 ~ Napoleon Hill  
 
@@ -16,6 +16,8 @@
 > “We can complain because rose bushes have thorns,
 > or rejoice because thorn bushes have roses.” ~ Abraham Lincoln
 
+> “A goal without a plan is just a wish.” ~ Antoine de Saint-Exupéry
 
 - Ted has good quotes: http://www.ted.com/quotes
 - GoodReads Work Quotes: http://www.goodreads.com/quotes/tag/work
+- Goals: http://www.goodreads.com/quotes/tag/goals
