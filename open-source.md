@@ -8,9 +8,13 @@ Open Source is what made most of the internet *possible*.
 The term "open source" refers to something that can be modified
 because its design is publicly accessible.
 
+Watch the video: http://en.wikipedia.org/wiki/Open_source  
 Read more: http://opensource.com/resources/what-open-source
 
-### Why I don't like Open Source
+### Why I don't like Open Source (Twitter Rant)
+
+I was prompted to write my own thoughts on Open Source
+after reading the following posts:
 
 + https://remysharp.com/2015/01/09/dont-like-open-source
 + https://storify.com/trodrigues/why-i-don-t-like-open-source-a-play-in-3-acts
