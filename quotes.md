@@ -24,6 +24,11 @@
 ---
 > "*A **goal** is a **dream with** a **deadline**.*" ~ Napoleon Hill
 
+---
+> "* **Great minds discuss ideas**; **average** minds discuss **events**; **small** minds discuss **people** *".
+> ~ Eleanor Roosevelt
+
+
 - Ted has good quotes: http://www.ted.com/quotes
 - GoodReads Work Quotes: http://www.goodreads.com/quotes/tag/work
 - Goals: http://www.goodreads.com/quotes/tag/goals
