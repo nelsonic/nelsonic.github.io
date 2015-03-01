@@ -6,7 +6,7 @@
 > **stimulates** the **creative mind***. ~ Albert Einstein
 
 ---
-> "***Wise men***, *when in doubt whether to speak or to keep quiet,
+> "***Wise men***, *when in doubt whether to speak or to keep quiet,  
 > give themselves the benefit of the doubt, and **remain silent***."
 ~ Napoleon Hill  
 
@@ -19,7 +19,7 @@
 > **not** the **measurable important***." ~ Ken Robinson
 
 ---
-> “*We can complain because rose bushes have thorns,
+> “*We can complain because rose bushes have thorns,  
 > or **rejoice because thorn bushes have roses***.” ~ Abraham Lincoln
 
 ---
@@ -29,9 +29,18 @@
 > "*A **goal** is a **dream with** a **deadline**.*" ~ Napoleon Hill
 
 ---
-> "* **Great minds discuss ideas**; **average** minds discuss **events**; **small** minds discuss **people** *".
+> "* **Great minds discuss ideas**;  
+> **average** minds discuss **events**;  
+> **small** minds discuss **people** *".
 > ~ Eleanor Roosevelt
 
+---
+
+> "* **perfection** is **attained** not when there is nothing more to add,  
+> but when there is **nothing more to remove** *" ~
+[Antoine de Saint-Exupéry](http://en.wikiquote.org/wiki/Antoine_de_Saint_Exup%C3%A9ry)
+
+- - -
 
 - Ted has good quotes: http://www.ted.com/quotes
 - GoodReads Work Quotes: http://www.goodreads.com/quotes/tag/work
