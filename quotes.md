@@ -1,5 +1,9 @@
+> “*If your **actions inspire others** to dream more, learn more,  
+> do more and become more, you are a **leader**.*” ~ John Quincy Adams
+
+---
 > "*The monotony and solitude of a **quiet** life
-> **stimulates** the **creative mind***. ~Albert Einstein
+> **stimulates** the **creative mind***. ~ Albert Einstein
 
 ---
 > "***Wise men***, *when in doubt whether to speak or to keep quiet,
