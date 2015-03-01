@@ -40,7 +40,14 @@
 > but when there is **nothing more to remove** *" ~
 [Antoine de Saint-Exupéry](http://en.wikiquote.org/wiki/Antoine_de_Saint_Exup%C3%A9ry)
 
-- - -
+---
+
+> “*The **price** of anything is the **amount** of **life** you **exchange for it**.*”
+~ Henry David Thoreau
+
+---
+
+
 
 - Ted has good quotes: http://www.ted.com/quotes
 - GoodReads Work Quotes: http://www.goodreads.com/quotes/tag/work
