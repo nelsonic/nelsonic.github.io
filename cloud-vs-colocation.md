@@ -114,7 +114,7 @@ Putting **24** x **3TB** hard drives £**6,249** (*up front*)
 
 Same **colocation costs** (£200 per month) or £**2,400 per year**.
 
-[24 3Tb drives at RAID 6 is 66,000 Gb](http://i.imgur.com/Fo5Lk28.png)
+![24 3Tb drives at RAID 6 is 66,000 Gb](http://i.imgur.com/Fo5Lk28.png)
 
 This would give us **66,000 Gb** of **file storage**
 
