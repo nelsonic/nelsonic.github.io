@@ -106,9 +106,9 @@ And... unless your in-memory database allows you to read from Disk (EBS) you cou
 Just the cost of reserving the AWS EC2 instance is the more than the ***TOTAL*** cost of **BUYING**
 the hardware and colocating it!
 
+## *BUY Hardware* and Colocate it in an Environmentally Friendly DataCenter ?
 
-
-By contrast, we can **BUY** a **1U Server** for **£1,299** with the following **spec**:
+We can **BUY** a **1U Server** for **£1,299** with the following **spec**:
 
 + 2 x X5660 Xeon Six-Core CPU (12 Core)
 + 2.2GHz Processor Speed
@@ -118,6 +118,8 @@ By contrast, we can **BUY** a **1U Server** for **£1,299** with the following *
 + Dual Redundant Power Supplies (2xPSU)
 
 ![buy 64gb 1u server](http://i.imgur.com/EjV82Xq.png)
+
+> see: http://www.etb-tech.com/poweredge-m1000e-blades-enclosure-with-8-x-m710-blades-1853.html
 
 Then pay **£50 per month** for **Colocation** in London - £50 x 12 = £600 per year!
 
