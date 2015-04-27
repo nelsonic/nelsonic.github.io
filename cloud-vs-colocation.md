@@ -62,7 +62,7 @@ We have been using [**ecotricity**](http://www.ecotricity.co.uk/) for the past
 5 years @dwylHQ and our plan is to buy the renewable energy credits to power
 all our server resources.
 
-And... Coreix (our preferred Colocation partner) is committed to
+And... **Coreix** (our preferred Colocation partner) is committed to
 Environmental sustainability: http://www.coreix.net/aboutus/commitments_environment
 
 #### Data Privacy
@@ -207,18 +207,21 @@ The answer is **simple**: ***bandwidth costs***...!
 So... we may need to re-visit this in 12 months time and factor in the bandwidth costs... ;-)
 (*Lets get* ***back to work***!)
 
-# > TODO:
+# > TODO: Answer These Questions when we Re-Visit this Discussion
 
++ [ ] Does *owning hardware* require more skilled people? can we simplify it?
++ [ ] How much would we need to ***budget*** for the ***people***
+managing/monitoring the infrastructure...? (hourly? monthly? SLA?)
++ [ ] Do we need to learn SALT? (to manage things) https://github.com/saltstack/salt
++ [ ] Should we use CoreOS & Docker? >> ***ask [Luke](https://twitter.com/lukeb0nd)***!
 + [ ] High Availability - how many Datacenters do we need to use to have high
-availability?
-+ [ ] Encryption for intra-zone-communication
-+ [ ] ElasticSearch Full-Disk Encryption?
-+ [ ] IPTables/Firewall rules
+availability? 2+1 ? (e.g. London, SF, Singapore)
++ [ ] Encryption for intra-zone-communication (TLS everywhere)
++ [ ] ElasticSearch Full-Disk Encryption? (does this kill search response time?)
++ [ ] IPTables/Firewall rules?
 + [ ] Intra-Zone Loadbalancing? or DNS Round-robin?
 + [ ] Inter-continental Latency: http://ippm.bt.net/hour/europe/lo.shtml &
 http://ipnetwork.bgtmo.ip.att.net/pws/global_network_avgs.html
-
-
 
 
 ## Notes
