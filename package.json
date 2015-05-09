@@ -1,0 +1,29 @@
+{
+  "name": "nelsonic",
+  "version": "1.0.0",
+  "description": "words I write before others wake up",
+  "main": "index.html",
+  "dependencies": {
+    "marked": "^0.3.2"
+  },
+  "devDependencies": {
+    "harp": "^0.17.0"
+  },
+  "scripts": {
+    "test": "harp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/nelsonic.github.io.git"
+  },
+  "keywords": [
+    "words",
+    "writing"
+  ],
+  "author": "nelsonic <nodecoder@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/nelsonic.github.io/issues"
+  },
+  "homepage": "https://github.com/nelsonic/nelsonic.github.io"
+}

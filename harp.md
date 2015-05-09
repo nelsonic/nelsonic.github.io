@@ -7,6 +7,8 @@ To simplify publishing online content.
 
 > "*Harp is a* ***static web server*** with ***built-in preprocessing***"
 
+Or in *English*: harp lets you build websites with easy tools
+(*but still requires you to write some code...*)
 
 ## How?
 
@@ -26,4 +28,19 @@ npm install harp -g
 (The module creators/maintainers have probably just included the
 sudo to avoid getting more "*unable to install...*" issues)
 
-![why sudo install?](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/npm-install-harp-g.png)
+![works without sudo](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp--npm-install-harp-g.png)
+
+### Initialise
+
+if you try to init in an *existing* directory, you get an error:
+
+![does not work for existing blogs](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-does-not-work-for-existing-blogs.png)
+
+So you need to *specify* the name of a *new* directory:
+
+![harp init](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-init-nelsonic.png)
+
+
+That will create a directory with the following files:
+
+![harp init creates files](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-defaults-to-using-jade-and-less.png)
