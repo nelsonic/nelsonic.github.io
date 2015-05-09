@@ -1,13 +1,20 @@
 ## Family
 
-- **20140223** Went to visit [dscape](https://github.com/dscape) and family. 
+- **20150227** Inês and I spent the day in Edinburgh today.
+We rather selfishly went to lunch, Hillend and Bowling by ourselves
+(because we haven't had much time for "*just us*" lately...)
+It was a good day together. But sadly not much code. :-(
+
+- - -
+
+- **20140223** Went to visit [dscape](https://github.com/dscape) and family.
 He's working *way* too hard on [YLD](http://www.yld.io/) but its going to Yield nicely... ;-)
 Only PeerSun code. Need to convince them to open source the project I'm working on...
 
 - **20140112** today was my parents' 37th wedding anniversary. no celebration. simple lunch.
 I spent the afternoon teaching my mom wordpress... I *really* dislike wordpress. :-(
 
-- **20140111** Spent another day helping my mom set up her new flat 
+- **20140111** Spent another day helping my mom set up her new flat
 and *finally* got her to focus on setting up the domain + website for her idea: http://after4.org/
 only a basic wordpress site right now, but will be an after-school activities website.
 Brain frazled so not writing any code for my project today. :-( sleep well world. ;-)
@@ -30,14 +37,14 @@ Need to write a post on my thoughts on patents, trolls and innovation... #todo
 - **20131229** Sick as a dog the past few days. :-(
 Didn't even think of Code... This has not been a very productive "holiday"...
 
-- **20131226** Its not called "**Boxing Day**" in Portugal. 
+- **20131226** Its not called "**Boxing Day**" in Portugal.
 But there's a sale at almost every shop starting today.
 So heading to Ikea with mom to buy some furniture for the flat...
-Also getting internet installed in the flat today 
+Also getting internet installed in the flat today
 so might be able to code tonight... fingers crossed.
 
 - **20131225** Chrismas day. Sick from eating *all* the *wrong* things.
-and the punishment has not ceased. 
+and the punishment has not ceased.
 Next year I want to be in a Muslim country over Christmas to avoid toxifying my body.
 
 

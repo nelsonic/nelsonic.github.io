@@ -1,6 +1,6 @@
+![what's your goal?](http://i.imgur.com/INlB8bq.jpg)
 
-
-We need a simple way of *tracking* if an activity is moving
+We need a *simple* way of *tracking* if an activity is moving
 us towards (or *away* from) our *specific* goal(s).
 
 ## Background
@@ -57,7 +57,7 @@ required to *actually* achieve it.
 I ***don't agree*** with this ***at all***.
 If you don't *share* your goals with anyone  
 a) Nobody will *understand* ***why*** (or *what*)
-you are trying to change/improve  
+you are trying to achieve/change/improve  
 b) You will have **no help/support** to keep you on
 track towards your goal.  
 c) You will not find like-minded people to *accelerate* your goals!
@@ -77,13 +77,13 @@ is Kickstarter where people share their idea/goal -
 precisely because people *follow through* with their announced
 goals/plans (i.e. *deliver* what they promise)
 
-You fail to acheive your goal, because you don't "***want it bad***".
+You fail to achieve your goal, because you don't "[***want it bad***](http://youtu.be/mgmVOuLgFB0?t=2m14s)".
 
 
 
 ## What are *My* Goals?
 
-1. Get fit
+1. Get fit (without physical fitness everything is takes longer!)
 2. Track time > https://github.com/nelsonic/time
 
 - - -
