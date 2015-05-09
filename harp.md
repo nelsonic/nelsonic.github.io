@@ -5,7 +5,7 @@ To simplify publishing online content.
 
 ## What?
 
-> "*Harp is a* ***static web server*** with ***built-in preprocessing***"
+> "*Harp is a* ***static web server*** with ***built-in preprocessing***" ~ http://harpjs.com
 
 Or in *English*: harp lets you build websites with easy tools
 (*but still requires you to write some code...*)
@@ -44,3 +44,12 @@ So you need to *specify* the name of a *new* directory:
 That will create a directory with the following files:
 
 ![harp init creates files](https://raw.githubusercontent.com/nelsonic/nelsonic.github.io/master/img/harp-defaults-to-using-jade-and-less.png)
+
+
+### Quick Start
+
+The quick start video spends most of the time showing people how to install node.js ... then only goes thru the first step of starting with harp. hardly an introduction...
+
+http://harpjs.com/docs/quick-start
+
+(also their [youtube chanel](https://www.youtube.com/channel/UCjMFLksOOahVB0xCupy8oeA/videos) has exactly *one* video which was uploaded in *Dec 2013* ...)
