@@ -42,5 +42,5 @@ Apple think different commercial:
 
 ## Background Watching
 
-+ Steve Jobs One Last Thing: https://www.youtube.com/watch?v=tNL3bDLgkh8
++ Steve Jobs One Last Thing: https://www.youtube.com/watch?v=tNL3bDLgkh8 (*highly recommend watching!*)
 + Steve Jobs' 2005 Stanford Commencement Address https://www.youtube.com/watch?v=UF8uR6Z6KLc (if you haven't watched it yet!)
