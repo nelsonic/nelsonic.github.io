@@ -1,11 +1,14 @@
 ![IBM heart apple](http://i.imgur.com/mhCyV75.png)
 
 Does anyone else find it at least *interesting* that IBM
-sold its PC (hardware) division to Lenovo and is now promoting their
+sold its PC (hardware) division to [Lenovo](https://en.wikipedia.org/wiki/Lenovo) and is now promoting their
 **_direct_ competitors**?
 
-
 http://www.wsj.com/article_email/ibm-apples-rival-turned-partner-plans-to-help-other-companies-adopt-macs-1438765914-lMyQjAxMTE1OTAyNTcwOTUyWj
+
+After divesting from the (_low margin_) PC (hardware) game in 2005 IBM went after the "Services business". Then in 2014 the second part of IBM's "no hardware strategy" was enacted when they divested from Servers ...
+*Ironically* while IBM's earnings (and market cap/share) continue to decline
+Lenovo is doing *splendidly* with growth in most of their sectors.
 
 
 Evolution of IBM Logo
