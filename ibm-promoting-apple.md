@@ -37,10 +37,12 @@ Apple think different commercial:
 
 ## Reading
 
++ Who Says Elephants Can't Dance (the IBM turnaround story) http://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/0060523808
 + "Beneath the Dancing Elephant": http://www.beneaththedancingelephant.com/
 
 
 ## Background Watching
 
-+ Steve Jobs One Last Thing: https://www.youtube.com/watch?v=tNL3bDLgkh8 (*highly recommend watching!*)
++ Steve Jobs One Last Thing (Documentary): https://www.youtube.com/watch?v=tNL3bDLgkh8 (*highly recommend watching!*)
 + Steve Jobs' 2005 Stanford Commencement Address https://www.youtube.com/watch?v=UF8uR6Z6KLc (if you haven't watched it yet!)
++ *Find* and watch ["**Pirates of Silicon Valley**"](https://www.youtube.com/results?search_query=pirates+of+silicon+valley) for an insight into the origins of Microsoft & Apple 
