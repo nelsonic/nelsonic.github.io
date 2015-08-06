@@ -29,10 +29,17 @@ The *industries* I would not work for (*in decending order*)
 
 #### 1. Weapons Manufacture/Supply
 
-We *all know* that "Guns don't kill people, people kill people" ...
+We *all know* that "Guns don't kill people, people kill people" ... and yet,
+bad people (read: Gangs, Criminals,
+  [Military Dictators](https://en.wikipedia.org/wiki/Military_dictatorship))
+  all *use* weapons for their evil ends which are not limited to killing
+  but include many other heinous crimes.
+
 facts: http://www.armedwithreason.com/debunking-the-guns-dont-kill-people-people-kill-people-myth/
 
-#### 2. 
+#### 2. Drugs?
+
+#### 3. 
 
 
 ## Background Reading
