@@ -51,7 +51,9 @@ being a
 "[*heavy drinker*](http://www.cdc.gov/alcohol/fact-sheets/alcohol-use.htm)". It's not my place to "*judge*" anyone for what they
 *choose* to consume, but I don't want to be a *part* of the
 machine that systematically markets a harmful product
-to young people when the (*negative*) health and wellbeing effects are widely known. http://www.nhs.uk/conditions/Alcohol-misuse/Pages/Introduction.aspx
+to young people when the (*negative*) health and wellbeing effects are ***widely known***:
+  + https://en.wikipedia.org/wiki/Long-term_effects_of_alcohol_consumption
+  + http://www.nhs.uk/conditions/Alcohol-misuse/Pages/Introduction.aspx
 + ***Tobacco*** - Anyone who still claims that smoking is good
 is *undeniably* being paid by one of the Tobacco commpanies/lobbies.
 > **Fact**: Cigarette smoking causes more than 480,000 deaths each year in the United States. This is about one in five deaths. http://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm
