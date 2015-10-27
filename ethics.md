@@ -63,7 +63,7 @@ http://www.scientificamerican.com/article/tobacco-companies-still-target-youth/
 
 The debate on legalising (*certain*) drugs deserves its own post.
 I'm in favor of legalising and regulating the Supply of
-***naturally occurring*** plants such as cannabis and (Psilocybin) mushroom because by out-lawing them people
+***naturally occurring*** plants such as cannabis and (Psilocybin) mushrooms because by out-lawing them people
 who *want* to use these *plants* end up funding dealers.
 If they were legalised, an entire section of the criminal
 world would be forced to re-consider their activities.
