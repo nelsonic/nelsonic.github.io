@@ -4,6 +4,7 @@
   "description": "words I write before others wake up",
   "main": "index.html",
   "dependencies": {
+    "googleapis": "^8.0.0",
     "marked": "^0.3.2"
   },
   "devDependencies": {
