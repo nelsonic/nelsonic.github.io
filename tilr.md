@@ -3,10 +3,8 @@
 During my time at Pearson I've got to work on a couple of projects.
 The most interesting one ~~is~~ *was* **tilr**:
 
-![Tilr-case-study-screenshot-1of2](http://i.imgur.com/l5jy5qX.png)
-
-![Tilr-case-study-screenshot-2of2](http://i.imgur.com/u5a45O9.png)
-
+![Tilr-case-study-screenshot-1of2](https://cloud.githubusercontent.com/assets/194400/16602765/a06e9b4e-430e-11e6-8350-50b077ba72de.png)
+![Tilr-case-study-screenshot-2of2](https://cloud.githubusercontent.com/assets/194400/16602768/a24604e8-430e-11e6-85d5-0f4d3c377d3c.png)
 ## Case Study
 
 Unboxed case study:
