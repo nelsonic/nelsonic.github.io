@@ -1,30 +1,34 @@
-# 12 Step Goal-Setting Guide – Brian Tracy
+# Brian Tracy's 12 Step Goal-Setting Guide
 
 
 
-## 1. Decide exactly what you want in every key area of your life.
+## 1. Decide _exactly_ what you want in every key area of your life.
 
-a. 1. Income – how much do you want to earn this year, next year and five years from
+1. ***Income*** – how much do you want to earn this year, next year and five years from
 today?
-b. 2. Family – what kind of a lifestyle do you want to create for yourself and your family?
-c. 3. Health – how would your health be different if it was perfect in every way?
-d. 4. Net Worth – how much do you want to save and accumulate in the course of your
+2. ***Family*** – what kind of a lifestyle do you want to create for yourself and your family?
+3. ***Health*** – how would your health be different if it was perfect in every way?
+4. ***Net Worth*** – how much do you want to save and accumulate in the course of your
 working lifetime?
-Hint: Three Goal Method – in less than 30 seconds, write down your three most important
-goals in life, right now.
 
-## 2. Write it down. Your goals must be clear, specific, detailed and measurable. 
+> _**Hint**: **Three Goal Method** – in **less** than **30 seconds**, 
+> write down your **three most important goals** in life, right now_.
+
+## 2. Write it down. 
+### Your goals must be clear, specific, detailed and measurable. 
 
 You must writeout your goals as if you were placing an order in a factory at a great distance. 
 Make your
 description clear and detailed in every sense.
 
-## 3. Set a deadline. Your subconscious mind uses deadlines as “forcing systems” to drive you.
-a. If your goal is big enough, set sub-deadlines.
-b. If you want to achieve financial independence, you may set a 10 or 20-year goal, and
+## 3. Set a deadline. 
+### Your subconscious mind uses deadlines as “forcing systems” to drive you.
+
+1. If your goal is big enough, set sub-deadlines.
+2. If you want to achieve financial independence, you may set a 10 or 20-year goal, and
 then break it down, year by year, so that you know how much you have to save and
 invest each year.
-c. If for some reason you don’t achieve your goal by the deadline, simply set a new
+3. If for some reason you don’t achieve your goal by the deadline, simply set a new
 deadline. There are no unreasonable goals, only unreasonable deadlines.
 
 ## 4. Identify the obstacles that you will have to overcome to achieve your goal. 
@@ -33,11 +37,11 @@ Why aren’t you already at your goal? Only 20% of the reasons you are
 not achieving your goal are on the outside. 
 Always start with yourself.
 
-## 5. Identify the knowledge, information and skills you will need to achieve your goal.
+## 5. Identify the _knowledge, information_ and _skills_ you will need to achieve your goal.
 
-a. Especially, identify the skills that you will have to develop to be in the top 10% of
+1. Especially, identify the skills that you will have to develop to be in the top 10% of
 your field.
-b. Your weakest key skill sets the height of your income and your success.
+2. Your ***weakest key skill*** sets the height of your income and your success.
 i. Key Question: “What one skill, if you developed and did it in an excellent
 fashion, would have the greatest positive impact on your life?” Whatever the
 skill, write it down, make a plan and work on it every single day.
@@ -124,3 +128,10 @@ i. This activates your superconscious mind.
 ii. Your superconscious mind activates the Law of Attraction and begins
 attracting into your life people, circumstances, ideas and resources that will
 help you to achieve your goals even faster. 
+
+
+## Resources and Further Reading
+
++ https://www.briantracy.com/freegifts/GoalsReportUp.pdf
++ https://www.youtube.com/results?search_query=Psychology+of+Achievement
++ 14-Step Goal Setting: http://media.briantracy.com/downloads/pdf/Goals_optin.pdf

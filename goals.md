@@ -108,6 +108,10 @@ Goal **achieving** seems to be **automatic**,
 it's the goal **setting** you are responsible for._"
 
 
+
+
+
+
 > Aside: At the end of the video Brian Tracy gives a selling master-class:
 https://youtu.be/mRRkMOTzpXg?t=35m23s 
 > + Price Build Up: 
