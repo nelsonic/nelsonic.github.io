@@ -18,18 +18,32 @@
 
 ![what's your goal?](http://i.imgur.com/INlB8bq.jpg)
 
+# _Why_?
+
 ### > “If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_.” ~ Albert Einstein
+
+> Think of a time when  you _wished_
+you had _started_ something _sooner_. <br />
+> For example:
+> + learning a new skill,
+> + working on a project with a tight deadline,
+> + getting fit/strong
+> + saving/investing. <br />
+
+> In _most_ things in life,
+> _starting earlier_ leads to "_better_" results, <br />
+> and yet _most_ people _procrastinate_
+> and _blame_ their lack of progress on low "_motivation_".
+
+> _Most_ (93% of) people don't _realise_
+> that setting goals _creates_ the _focus_
+> which in turn drives _motivation_.
+> Without the _clear_ goal, motivation is virtually non-existent.
 
 ### > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
 
 
-> Think of a time when  you _wished_
-you had _started_ something _sooner_. <br />
-> For example: learning a new skill,
-> working on a project with a tight deadline
-> getting fit/strong or saving/investing. <br />
-> In all these things _starting earlier_ leads to "_better_" results,
-> and yet _most_ people do not learn new skills
+do not learn new skills
 after they leave "formal education"
 > (_preferring to spend their leisure time on activities they have
 > done since childhood, or **much worse**: mindlessly watching **television**
@@ -91,7 +105,7 @@ who may expect a reply
 to an email after 20:00 at night...) <br />
 I am **unlikely** to **succeed**._
 
-# 0. Home: Shelter, Safety & Social (Hygiene Factors)
+# 0. Home: Shelter, Safety & Social (Basic Factors)
 
 Maslow's
 ["hierarchy of needs"](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
@@ -99,12 +113,17 @@ lists "Physiological", "Safety"
 and "Love/Belonging" ("social belonging")
 as the two most ***basic*** _foundational_ "***needs***":
 
-[![maslow needs pyramid](https://user-images.githubusercontent.com/194400/30957524-cf24fdb4-a43a-11e7-8a44-dde66273e141.png)](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+<div align="center">
+<a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs">
+  <img title="maslow needs pyramid" width="500"
+  src="https://user-images.githubusercontent.com/194400/30963304-46bedebe-a44d-11e7-857b-2d225fdb426b.png">
+</a>
+</div>
 
-> _**Note: If you are **unfamiliar** with Maslow's work,
+> _**Note**: If you are **unfamiliar** with Maslow's work,
 > I **highly recommend** you take a quick detour to learn!_
-+ Read: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
-+ Listen: http://www.npr.org/programs/ted-radio-hour/399796647/maslows-human-needs
+> + Read: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+> + Listen: http://www.npr.org/programs/ted-radio-hour/399796647/maslows-human-needs
 
 For **_many_ people** these **_basic_ needs** are **not met**
 which is _outrageous_ in a world with so much wealth!
@@ -127,14 +146,15 @@ and (_no shortage_) of food! (_see "Nutrition" section below_)
 
 # 1. Health
 
-"_Health_" is _first_ because without health
-everything else is either impossible or takes much more time!
+"_Health_" is `#1` because ***without health***
+***everything*** `else` is either _impossible_
+or takes **_much_ more time**!
 
 ## 1.1 _Sleep_
 
 > **_SMART_ Goal**: Be asleep by 22:00 each night.
 
-> _**Sleep** is **essential** for achieving **anything** in life! see_: 
+> _**Sleep** is **essential** for achieving **anything** in life! see_:
 http://www.npr.org/2015/04/17/399800134/why-do-we-need-sleep
 
 _Tiredness_ inhibits _all_ other progress towards _any_ (_of my_) goals!
@@ -209,6 +229,11 @@ the ingredients (sugar/salt), additives and flavour enhancers. including:
   1. Breakfast cereals (_high in added refined sugar!_)
 + ***Eliminate*** "_Empty Calories_"; no sugary drinks of any kind!
 + Don't _Buy_ Ice-Cream as it has as much [sugar](http://www.benjerry.com/flavors/chocolate-fudge-brownie-ice-cream) as Coca-Cola! (_the cheaper the Ice-Cream the worse the ingredients; logical but worth repeating!_)
+
+### 1.2.3 _Eliminate Refined Sugar_
+
+
+
 
 ## 1.3 _Exercise_ (_Every Morning_)
 
@@ -329,9 +354,7 @@ for fresh greens with ***Zero "Food Miles"***
 
 # 5. Income & Expenditure
 
-
-
-1. Make _enough_ money to cover all living expenses.
+1. Make "_enough_" money to cover all living expenses.
 2. Track all expenses to ensure that I know where the money is _going_.
 3. Determine how much _cash_ I need to invest in my **projects** (_see: section 4, above_)
 
@@ -341,7 +364,7 @@ for fresh greens with ***Zero "Food Miles"***
 
 
 
-## Background
+## Background / Research
 
 ### Reading
 
@@ -374,6 +397,8 @@ http://www.huffingtonpost.com/david-sze/maslow-the-12-characteris_b_7836836.html
   you "***don't have time***" to read the paper/e-book version)
 - S.M.A.R.T. Goals Made Simple - S. J. Scott:
 http://www.amazon.co.uk/S-M-R-T-Goals-Made-Simple/dp/1496154061
++ The Secret to Success - Eric Thomas:
+https://www.amazon.com/Secret-Success-Eric-Thomas-ebook/dp/B008HKJBFA
 - The Goal -  Eliyahu M. Goldratt:
  http://en.wikipedia.org/wiki/The_Goal_%28novel%29
  (not specifically relevant to *personal* goals,
@@ -382,21 +407,110 @@ http://www.amazon.co.uk/S-M-R-T-Goals-Made-Simple/dp/1496154061
 
 ### Video
 
-#### _How_ Will You _Measure_ Your _Life?_: http://youtu.be/tvos4nORf_Y
+#### _How_ Will You _Measure_ Your _Life?_
+
+http://youtu.be/tvos4nORf_Y
+
+#### Tony Robbins: ***Why*** we do what we do
+
+http://youtu.be/Cpc-t-Uwv1I?t=25s
+(_ignore the Lance Armstrong part half-way in..._)
 
 
 
-
-#### ***Why*** we do what we do (Tony Robbins): http://youtu.be/Cpc-t-Uwv1I?t=25s
-
-
-
-(*ignore* the Lance Armstrong part half-way in... ;-)
-- ***How Bad*** Do You Want It?
-http://youtu.be/lsSC2vx7zFQ?t=6s
+#### Why Setting Goals Is Not Enough (And what To Do About It):
+https://youtu.be/p8eghGDZFUM
+(_surprisingly insightful even though it has v. few "views"_)
 
 
-#### 12 Step Method To Setting and Achieving Your Goals (Brian Tracy): https://youtu.be/mRRkMOTzpXg
+#### Eric Thomas: You _Owe_ You
+
+"_Many of you are taking anything, cause you don't know what you want!_" <br />
+"_And then once you find out what you want,
+spend the rest of your natural life waking up and going after it._" <br />
+"_You better **stop making excuses** and **find a way to win**._"
+
+This is more of a "_motivational speech_" than a "_goal setting_" guide.
+
+
+[![eric thomas what do you want](https://user-images.githubusercontent.com/194400/31004901-bc085c00-a4f6-11e7-88ef-0dd54107a7bc.png)](https://youtu.be/7Oxz060iedY)
+https://youtu.be/7Oxz060iedY
+
+If you don't feel "_fired up_" after watching "ET",
+maybe his delivery is too "_passionate_"...
+_Personally_ his _message_ resonates with me.
+However, I _acknowledge_ that it's "_not for everyone_".
+
+
+#### Eric Thomas: ***How Bad*** Do You Want It?
+
+This is more of a "_motivational speech_" by Eric Thomas,
+who is one of the _best_ "life coaches". <br />
+But it's included here because it clearly _illustrates_
+the value of / reason for setting goals.
+
+[![Eric Thomas How bad do you want it?](https://user-images.githubusercontent.com/194400/30986899-5a973d4e-a495-11e7-90bd-312a5a9a0af7.png)](http://youtu.be/lsSC2vx7zFQ?t=5s)
+http://youtu.be/lsSC2vx7zFQ?t=5s
+
+> "<br />
+> _Most of you **say** you **want** to **be successful**_, <br />
+> _but you **don't want it bad**, you just **kinda want it**_ <br />
+> _you don't want it **badder** than you **wanna party**_, <br/>
+> _you don't want it as much as you **want to be cool**_, <br />
+> _**Most** of you **don't want success**_
+> _as much as **you want** to **sleep**_! <br />
+> _Some of you want sleep more than you want success._ <br />
+> _I'm here to tell you again,_
+> _if you're going **to be successful**_, <br />
+> _you gotta be **willing to give up sleep**_ ... <br />
+> _If you **really want** to be successful, some days,_ <br />
+> _you're **going to have to stay up three days in a row**._ <br />
+> _because if you **go to sleep**,_ <br />
+> _you might **miss the opportunity**_
+> _to be successful_.<br />
+> _That's how bad you gotta want it._ <br />
+> _Listen to me, you gotta want to be successful,_ <br />
+> _so bad that you **forget to eat**_. <br />
+> _**Beyonce** said once she was on the set, doing her thing,_ <br />
+> _**three days** had gone by, she forgot, she **didn't eat**._ <br />
+> _cause she was **engaged**_. <br />
+> _I never forget: when 50cent was doing his movie,_
+> _I did a little research on 50_ <br />
+> _and 50 said when he wasn't doing the movie_
+> _he was doing the soundtrack_. <br />
+> _and they said: 'when do you **sleep** 50...?_' <br />
+> _'sleep?' he says, 'sleep?!'_ ...
+> _"sleep is for those people who are **broke**, I don't sleep!"_ <br />
+> _"I got an **opportunity** to **make** a **dream** become a **reality**"_ <br />
+> _**Don't** try to **quit**, you're **already in pain**, **get a reward** from it_! <br />
+> _**Don't** got to **sleep until you succeed**._ <br />
+> _**Listen to me**, I'm here to tell you today, that you can come here_ <br />
+> _you can jump up, you can do flips_,
+> _you can be excited when we give away money,_ <br />
+> _but listen to me, you will **never be successful** until,_  <br />
+> _I don't have to give you a **dime** to do what you do_. <br />
+> _You won't be successful until you say: "**I don't need that money**"_. <br />
+> _Cause I got it in here ..._<br />
+> <br />"
+
+
+While I **_wholeheartedly_ agree** with Eric Thomas' "_gotta want it bad_"
+speech and I've _been_ there not sacrificing sleep for (_short term_) success,
+I think it's worth noting that he doesn't say you "_must not sleep_",
+rather he's saying you must be "***willing to give up sleep***",
+i.e. you must be ***willing*** to ***get up*** in the morning,
+even when you still feel tired and want to "_snooze_".
+I suspect that on stage when he's delivering a "_motivational speech_",
+he doesn't really have that much time to go into the
+"_benefits of a **sustainable routine**_" ... he's just trying to illustrate
+to people that those who are successful
+wanted what they got more than _anything_ else.
+If _you_ want to be successful _long-term_, i.e. without "_burn out_",
+_trust, me_ you ***need sleep***. But you _must_ "_sleep smart_".
+Learn how to improve the _quality_ of your sleep so you wake up refreshed
+and _ready_ for another day of _focus_.
+
+#### 12 Step Method To Setting and Achieving Your Goals (Brian Tracy)
 
 ![12 Step Method To Setting and Achieving Your Goals](https://user-images.githubusercontent.com/194400/30491353-f07eeade-9a34-11e7-8cb3-4b8d255453fc.png)
 
@@ -432,7 +546,6 @@ https://www.slideshare.net/sanathdasanayaka73/12-step-goalsetting-processbrian-t
 is **setting** goals in the first place. <br />
 Goal **achieving** seems to be **automatic**,
 it's the goal **setting** you are responsible for._"
-
 
 
 > Aside: At the end of the video Brian Tracy gives a selling master-class:
