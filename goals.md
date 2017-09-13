@@ -15,13 +15,23 @@
 > your potential _without_ setting goals, <br />
 > _please_ don't waste _your_ time reading any further!
 
-
-![what's your goal?](http://i.imgur.com/INlB8bq.jpg)
+<div align="center">
+<a href="#">
+  <img title="What is your goal?"
+  src="http://i.imgur.com/INlB8bq.jpg">
+</a>
+</div>
 
 # _Why_?
 
 ### > “If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_.” ~ Albert Einstein
 
+**_Several_ studies** have concluded that
+the **_single_ most important _predictor_**
+for our own **long-term success** in life
+is setting **_personal_ goals**.
+**Only** by having goals can we make the _most_ of our lives
+and ***minimise*** our **regrets** from ***wasted time***.
 
 > "_**Setting goals increases achievement**. 
 **Hundreds** of **correlational** and **experimental studies** show evidence 
@@ -29,35 +39,26 @@ that **setting goals increase success rate** in various settings._"
 ~ Selen Turkay (2014). Setting Goals: Who, Why, How?
 (_Harvard Initiative for Learning and Teaching_)
 
-> Think of a time when  you _wished_
+Think of a time when  you _wished_
 you had _started_ something _sooner_. <br />
-> For example:
-> + learning a new skill,
-> + working on a project with a tight deadline,
-> + getting fit/strong
-> + saving/investing. <br />
+For example:
++ learning a new skill,
++ working on a project with a tight deadline,
++ getting fit/strong
++ saving/investing. <br />
 
-> In _most_ things in life,
-> _starting earlier_ leads to "_better_" results, <br />
-> and yet _most_ people _procrastinate_
-> and _blame_ their lack of progress on low "_motivation_".
+In _most_ things in life,
+_starting earlier_ leads to "_better_" results, <br />
+and yet _most_ people _procrastinate_
+and _blame_ their lack of progress on low "_motivation_".
 
-> _Most_ (93% of) people don't _realise_
-> that **setting goals _creates_** the ***focus***
-> which in turn **drives _motivation_**. <br />
-> **Without** the **_clear_ goal**,
-> **motivation** is virtually **non-existent**.
+_Most_ (93% of) people don't _realise_
+that **setting goals _creates_** the ***focus***
+which in turn **drives _motivation_**. <br />
+**Without** the **_clear_ goal**,
+**motivation** is virtually **non-existent**.
 
-
-_Several_ studies have concluded that
-the _single_ most important thing we can do
-for our own long-term success in life
-is set _personal_ goals.
-Only by having goals can we make the _most_ of our lives
-and minimise our regrets from wasted time.
-
-
-Once we have clearly defined goals,
+Once we have ***clearly defined goals***,
 we need an _effortless_ way of _tracking_ if an activity is moving
 us **towards** (_or **away** from_) our _specific_ goal(s);
 more about that later!
@@ -70,8 +71,6 @@ I don't know if setting goals should be the _first_ step in the App's
 with the people _using_ the app,
 however I do know that it will be _important_ to help people _capture_
 their goals.
-
-
 
 
 
@@ -168,22 +167,39 @@ For that "_solid base_" I am _constantly_ and **_eternally_ grateful**.
 
 # 1. Health
 
+### > "_The First wealth is health_" ~ Ralph Waldo Emerson
+
 "_Health_" is `#1` because ***without health***
 ***everything*** `else` is either _impossible_
 or takes **_much_ more time**!
 
+The _reason_ my _personal_ health is `before` any of my other goals
+is both "_enlightened self-interest_" and "_good leadership_".
+
+
 ## 1.1 _Sleep_
 
-> **_SMART_ Goal**: Be asleep by 22:00 each night.
+> **_SMART_ Goal**(s):
++ Be ***asleep*** by **22:00** _every_ night.
++ Control as many of the "7 Sleep Factors" as possible
+to ensure quality of sleep!
 
-> _**Sleep** is **essential** for achieving **anything** in life! see_:
-http://www.npr.org/2015/04/17/399800134/why-do-we-need-sleep
+<div align="center">
+<a href="#">
+  <img title="Baby Sleeping with Kitten" width="500"
+  src="https://user-images.githubusercontent.com/194400/31043630-c62cf276-a5bf-11e7-9e70-1c216d2a61aa.jpg">
+</a>
+</div>
 
+### > "_You know you're in love when you can't fall asleep because reality is finally better than your dreams._" ~ Dr. Seuss
+
+_**Sleep** is **essential** for achieving **anything** in life! see_:
+http://www.npr.org/2015/04/17/399800134/why-do-we-need-sleep <br />
 _Tiredness_ inhibits _all_ other progress towards _any_ (_of my_) goals!
 I need to get _plenty_ of rest by getting an _early_ night.
 
 When I am tired I often loose sight of my goals
-and default to negative behaviour
+and `default` to _negative behaviour_
 like eating sugary/processed foods to prop up my energy levels.
 
 > _I'm **generally** a "**worse person**" when I'm tired:
@@ -219,7 +235,8 @@ which is when my **morning routine _must_ start**.
   + Save any work
   + Git Commit any work (_"[WiP]" on a branch if incomplete_)
   + Always push to GitHub!!
-  + Shut-down Computer (_not just "sleep"_) and say "_Shut Down Complete_"
+  + Shut-down Computer (_not just "sleep mode"_)
+    and say "***Shut Down Complete***" (_see: "Deep Work"_)
 
 ### 1.1.2 Screen Curfew
 
@@ -228,6 +245,10 @@ which is when my **morning routine _must_ start**.
 
 
 ## 1.2 _Nutrition_
+
+![fruits-vegetables-spicy-herbs-and-berry-on-wooden-table-photo](https://user-images.githubusercontent.com/194400/31043554-8ab63c9e-a5be-11e7-8b3d-38592ccaee22.jpg)
+
+### > "_Let food be thy medicine and medicine be thy food._" ~ Hippocrates
 
 The _second_ most important step in achieving _any_ of my goals,
 is to ensure that my body has good "_fuel_".
@@ -278,42 +299,148 @@ No, it just means I don't _buy_ any products with refined sugar. <br />
 i.e. I don't spend my own money on damaging my own health. <br />
 And if the people in
 
+### > "_`Cakes` are `healthy` too, you just eat a `small slice`_." ~ Mary Berry
 
 
 ## 1.3 _Exercise_ (_Every Morning_)
 
-+ Spend at least **5 minutes** per day doing
+### > "_A fit, healthy body—that is the best fashion statement_" ~ Jess C. Scott
+
+> **_SMART_ Goal**(s):
+> + Spend at least **5 minutes** per day doing
 _strength_ (_body weight_) exercises.
-  + 20 sec of exercise (_as many "good reps"_ as possible) followed by 10 seconds of rest. 5 mins = 600 seconds;
-  + 00:00 - 00:20 Push-ups
-  + 00:20 - 00:30 Rest
-  + 00:30 - 00:50 Sit-ups
-  + 00:50 - 01:00 Rest
-  + 01:00 - 01:20 Plank
-  + 01:20 - 01:30 Rest
-  + 01:30 - 01:50 Left Leg Abductors
-  + 01:50 - 02:00 Rest
-  + 02:00 - 02:20 Right Leg Abductors
-  + 02:20 - 02:30 Rest
-  + 02:30 - 02:50 Squats
-  + 02:50 - 03:00 Rest
-  + 03:00 - 03:20 Lunges
-  + 03:20 - 03:30 Rest
-  + 03:30 - 03:50 Push-ups 2
-  + 03:50 - 04:00 Rest
-  + 04:00 - 04:20 Sit-ups 2
-  + 04:20 - 04:30 Rest
-  + 04:30 - 05:00 Plank 2
 
-> I will be writing a mini-app that basically
-has a count-down tier and plays a sound.
+My objective with exercise is to ***minimise inertia***
+(_reasons for not doing it_) by ensuring the exercises can be done _anywhere_:
++ No Gym required
++ No Special Equipment or Clothing.
++ Free.
 
-### 1.4 Meditation & Mindfulness
+### 1.3.1 Sample Morning Exercise Routine
+
++ 20 sec of exercise (_as many "good reps"_ as possible) followed by 10 seconds of rest. 5 mins = 600 seconds;
++ 00:00 - 00:20 Push-ups
++ 00:20 - 00:30 Rest
++ 00:30 - 00:50 Sit-ups
++ 00:50 - 01:00 Rest
++ 01:00 - 01:20 Plank
++ 01:20 - 01:30 Rest
++ 01:30 - 01:50 Left Leg Abductors
++ 01:50 - 02:00 Rest
++ 02:00 - 02:20 Right Leg Abductors
++ 02:20 - 02:30 Rest
++ 02:30 - 02:50 Squats
++ 02:50 - 03:00 Rest
++ 03:00 - 03:20 Lunges
++ 03:20 - 03:30 Rest
++ 03:30 - 03:50 Push-ups 2
++ 03:50 - 04:00 Rest
++ 04:00 - 04:20 Sit-ups 2
++ 04:20 - 04:30 Rest
++ 04:30 - 05:00 Plank 2
+
+> `TODO`: write a "mini-app" that:
++ [ ] Displays a count-down timer for the _current_ exercise.
++ [ ] Shows a suggested Yoga Pose to do during the "rest" period
++ [ ] Displays the _next_ exercise while showing the rest count-down.
+
+https://www.doyouyoga.com/the-10-most-important-yoga-poses-for-beginners-25270/
+
+## 1.4 Meditation & Mindfulness
 
 + Spend at _least_ **5 minutes** per day practicing
 (_learning_) ***meditation & mindfulness***.
 
 > `TODO`: learn the essentials of Mediation & Mindfulness.
+
+## 1.5 Eyes!
+
+> **_SMART_ Goal**(s):
+> + Get _annual_ eye test at "FamOptica"<sup>1</sup> in Braga (_beginning of "dwyl summer"_)
+> + Take _regular_ breaks while working at my computer.
+Note: I tie these "eye breaks" into my "water/bathroom" breaks.
+
+![digital-eye-strain-info](https://user-images.githubusercontent.com/194400/31044313-41f072b8-a5cd-11e7-9fd1-60c8ee67c4ca.png)
+
+Hopefully this one is self-explanatory. But in case it isn't,
+go get your eyes tested and _rest_ _regularly_.
+
+> http://www.nhs.uk/Livewell/Eyehealth/Pages/Lookingafteryoureyes.aspx
+
+<sup>1</sup><small>_lovely people, great service and unbeatable price!
+e.g: my last pair of glasses there were €45
+with "anti-reflex lens coating!_</small>
+
+## 1.6 Oral Hygiene
+
+> **_SMART_ Goal**(s):
+> + **Brush _and_ Floss teeth** immediately
+> (_or as soon as possible_) after eating
+> to _minimise_ plaque build-up and decay.
+> + ***Carr*** a ***toothbrush*** + toothpaste in my "_day bag_"
+> (_when out of the house_)
+> so that if I eat something outside (_e.g. at a client office_)
+> I can follow the same routine and not _break_ my _good_ habit.
+
+`this` guy _gets_ it: <br />
+![ronaldo-before-and-after-teeth-celebrity-teeth-veneers-whitening](https://user-images.githubusercontent.com/194400/31043809-ada04e80-a5c2-11e7-9da4-2508bf56ba02.jpg)
+Image credit: http://www.teethfaq.com/celebrity-teeth-before-after-best/
+
+<!--
+> Aside: Read how Cristiano is taking the money:
+https://www.google.com/search?q=ronaldo+herbalife <br />
+`then` watch: "**Multilevel Marketing**": Last Week Tonight with John Oliver:
+https://youtu.be/s6MwGeOm8iI <br />
+Ronaldo also takes money from PokerStars (_i.e: promotes gambling!!_) <br />
+It's undeniable that he plays good football but
+he _also_ makes **_terrible_ leadership decisions**. <br />
+Taking money from Nike is _inexcusable_:
+https://en.wikipedia.org/wiki/Nike_sweatshops
+until they have _fully_ re-paid the "_dept_"
+to all the vulnerable people they have exploited.
+-->
+
+_Most_ people don't realise how important having good oral hygiene is.
+There is _conclusive_ evidence of the link between oral health
+and overall body health.
+
+> There is "_a strong link between the effects of chronic oral inflammation
+and general health. The mouth is the visible gateway to the rest
+of the body and reflects what is happening deep inside.
+Over 100 systemic diseases that have oral manifestations,
+such as cardiovascular disease, stroke, respiratory infections,
+pancreatic cancer, diabetes, and nutritional problems._" <br />
+> [The Importance of Oral Health in Long-Term Care](http://www.sciencedirect.com/science/article/pii/S1525861009000061)
+ ~ Mary S.Haumschild 2009
+
+
+## 1.7 Posture
+
+![posture-diagram](https://user-images.githubusercontent.com/194400/31043592-2c5c40d4-a5bf-11e7-874a-ad8c829ac4a0.png)
+
+## 1.8 Give Blood!
+
+> **_SMART_ Goal**(s):
++ Give blood every 3 months. (_the interval allowed by NHS_)
++ Book my _next_ appointment `while` donating in _current_ visit.
+
+
+![donating-blood-100-percent](https://user-images.githubusercontent.com/194400/31049604-ccb1cfaa-a636-11e7-8394-451896e9c10d.png)
+
+
+Giving blood is one of the _best_ things you can do for _several_ reasons:
++ ***Free health-check***: You get a regular blood test (_they check for **everything**_)
++ ***Feel Good*** for the Day: you get a
+[serotonin](https://en.wikipedia.org/wiki/Serotonin) "_dose_"
+from knowing that you're saving a _complete stranger's_ life!
+
+## 1.9 Organ Donor Register
+
+> **_SMART_ Goal**(s):
++ [x] Be registered for organ donation if the _worst_ ever happens
+(_traffic accident_) someone can get any part of me that is still "_useable_".
+
+See: https://www.organdonor.gov/statistics-stories/statistics.html
 
 # 2. Family/Loved Ones
 
@@ -335,13 +462,14 @@ The reason _family_ is _second_ after health
 
 # 3. Communication
 
-> "_It's dreadful what **little things lead**
-people to **misunderstand** each other._"
-~ [Lucy Montgomery](https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery)
 
-> "_The single **biggest problem** in **communication**
-> is the **illusion** that it **has taken place**_."
-~ [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
+> **_SMART_ Goal**(s): **Invest** (_at least_) one "pomodoro"
+> **writing** `each` **morning**.
+>
+
+<br />
+
+### > "_The single **biggest problem** in **communication** is the **illusion** that it **has taken place**_." ~ [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
 
 One of the areas of my life
 where I am _especially_ "_underachieving_" is ***communication***.
@@ -353,6 +481,8 @@ in a request that they have made.
 Poor communication is the _single_ biggest time-waster in
 an organisation and the biggest cause of relationship breakdown in families.
 
+### > "_It's dreadful what **little things lead** people to **misunderstand** each other._" ~ [Lucy Montgomery](https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery)
+
 + Avoid all "_arguments_" as they are simply misunderstanding
 due to poor communication. Instead _immediately **write down**_
 the source of the misunderstanding (_in notebook_) as a topic
@@ -363,7 +493,6 @@ when you have more time (_and a clear head_!)
 + Call Mom, Dad & Gran regularly. (_see: evening routine above_)
 
 # 4. (_Self_) _Actualisation_
-
 
 
 
