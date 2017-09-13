@@ -22,6 +22,13 @@
 
 ### > “If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_.” ~ Albert Einstein
 
+
+> "_**Setting goals increases achievement**. 
+**Hundreds** of **correlational** and **experimental studies** show evidence 
+that **setting goals increase success rate** in various settings._"
+~ Selen Turkay (2014). Setting Goals: Who, Why, How?
+(_Harvard Initiative for Learning and Teaching_)
+
 > Think of a time when  you _wished_
 you had _started_ something _sooner_. <br />
 > For example:
@@ -36,22 +43,10 @@ you had _started_ something _sooner_. <br />
 > and _blame_ their lack of progress on low "_motivation_".
 
 > _Most_ (93% of) people don't _realise_
-> that setting goals _creates_ the _focus_
-> which in turn drives _motivation_.
-> Without the _clear_ goal, motivation is virtually non-existent.
-
-### > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
-
-
-do not learn new skills
-after they leave "formal education"
-> (_preferring to spend their leisure time on activities they have
-> done since childhood, or **much worse**: mindlessly watching **television**
-> or consuming "**social media**"..._) <br />
-> the vast _majority_ of people are _unfit_
-> only a _fraction_ of the global population are "_financially free_".
-> Unless you have _specific_ goal to achieve certain things in life,
-> _statistically_, you will **not** achieve them.
+> that **setting goals _creates_** the ***focus***
+> which in turn **drives _motivation_**. <br />
+> **Without** the **_clear_ goal**,
+> **motivation** is virtually **non-existent**.
 
 
 _Several_ studies have concluded that
@@ -80,15 +75,18 @@ their goals.
 
 
 
-# What are *My* (_Personal_) Goals?
+# What (Are *My* _Personal_ Goals)?
+
+### > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
+
 
 At the _start_ of 2017 I _shared_ my "**Todo List**":
 https://github.com/dwyl/phase-two/issues/40 for the year. <br />
 While _several_ things have been "**checked off**" on the list,
 I have made almost _zero_ progress on a _number_ of them
 which makes me sad ...
-Rather than "_giving up_" on myself watching cartoons on Netflix,
-I'm attempting to ***re-focus*** on my **goals** by making them "***SMART***".
+Rather than "_giving up_" on myself and watching cartoons on Netflix,
+I'm _attempting_ to ***re-focus*** on my **goals** by making them "***SMART***".
 
 > _**Note**: while there is `some` evidence
 that sharing goals in `public` <br />
@@ -107,10 +105,11 @@ I am **unlikely** to **succeed**._
 
 # 0. Home: Shelter, Safety & Social (Basic Factors)
 
-Maslow's
+In his 1943 paper "_A Theory of Human Motivation_", Maslow's
 ["hierarchy of needs"](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+<br />
 lists "Physiological", "Safety"
-and "Love/Belonging" ("social belonging")
+and "Love/Belonging" ("social belonging") <br />
 as the two most ***basic*** _foundational_ "***needs***":
 
 <div align="center">
@@ -126,22 +125,45 @@ as the two most ***basic*** _foundational_ "***needs***":
 > + Listen: http://www.npr.org/programs/ted-radio-hour/399796647/maslows-human-needs
 
 For **_many_ people** these **_basic_ needs** are **not met**
-which is _outrageous_ in a world with so much wealth!
-This is not the place to discuss "_wealth re-distribution_",
-however I/we do have an _explicit_ goal of helping
+which is _outrageous_ in a world with so much wealth! <br />
+
+On more than one occasion I have been
+both _homeless_ and _unemployed_/"_broke_".
+I've had a a _tiny taste_ of how soul-destroying it is
+to _not_ have a place to call "_home_"
+and can _empathise_ with how _not_ having the "basics"
+makes achieving virtually _any_ other goal _impossible_.
+When there's no food in your belly
+it's not easy to _think_ about anything _else_.
+
+For the 4 years I was at University Inês and I volunteered for Oxfam's _trading_
+division to help market FairTrade goods which we believe are _part_
+of the solution to empowering people to meet their own basic human needs.
+I still _fully_ intend to resume the effort to help the _most_ disadvantaged
+people in the world with _self-empowerment_, however, I intend to do my part,
+using technology; (_see: section 4 below_).
+***Only*** by making _everything_ we do ***100% Open Source*** can we be
+a _part_ of the ***solution***.
+
+_This_ post is _not_ the place to discuss "_wealth re-distribution_"
+through universal basic income,
+and how it will _directly_ benefit the _richest_ members of society
+just as much as the least blessed,
+however I/we do have an **_explicit_** (_collective_) **goal** of helping
 _everyone_ achieve the most basic needs.
 see: [github.com/dwyl/**phase-two**](https://github.com/dwyl/phase-two)
-
-On more than one occasion I have been both _homeless_ and _unemployed_.
-I've had a a _taste_ of how soul-destroying it is
-to _not_ have a place to call "_home_"
-and _understand_ how not having the "basics"
-makes achieving virtually _any_ other goal _impossible_.
 
 _Thankfully_, today I have a home where I am "warm, dry and safe". <br />
 I am _blessed_ to have access to fresh/clean water
 and (_no shortage_) of food! (_see "Nutrition" section below_)
 
+Therefore I consider the ***first three*** "_levels_"
+of Maslow's hierarchy of needs to be "_achieved_" for me _personally_.
+For that "_solid base_" I am _constantly_ and **_eternally_ grateful**.
+
+> _**With** the_ [***love***](https://youtu.be/t5ze_e4R9QY)
+> _(of my loved ones) **everything** is_
+> ***possible***.
 
 
 # 1. Health
@@ -232,6 +254,29 @@ the ingredients (sugar/salt), additives and flavour enhancers. including:
 
 ### 1.2.3 _Eliminate Refined Sugar_
 
+> **_SMART_ Goal**(s):
+> + ***don't buy*** any _packaged_ foods (_they **all contain sugar**!!_)
+> + ***don't make*** any foods with refined sugar (_sorry, no more sugar-based brownies..._)
+> + ***politely refuse*** when people offer sweets.
+
+I _cannot_ think of a _healthy_ food that contains _refined sugar_. Can _you_? <br />
+Thankfully, _several_ people have studied the effects of sugar
+on the brain and overall health and the _evidence_ is _conclusive_:
+
+Sugar is "_as addictive_" as _cocaine_:
+<div align="center">
+<a href="https://youtu.be/f_4Q9Iv7_Ao">
+  <img title="maslow needs pyramid" width="500"
+  src="https://user-images.githubusercontent.com/194400/31009008-53d92a96-a506-11e7-93ff-cd432e265f32.png">
+</a>
+</div>
+
+Therefore I _must_ conclude that it has no place in my _healthy_ life.
+
+Does that mean I _cannot_ eat a slice of "_wedding cake_"? <br />
+No, it just means I don't _buy_ any products with refined sugar. <br />
+i.e. I don't spend my own money on damaging my own health. <br />
+And if the people in
 
 
 
@@ -389,6 +434,12 @@ http://michaelhyatt.com/5-reasons-why-you-should-commit-your-goals-to-writing.ht
 http://en.wikipedia.org/wiki/SMART_criteria#Developing_SMART_goals
 + Maslow: The 12 Characteristics of a Self-Actualized Person:
 http://www.huffingtonpost.com/david-sze/maslow-the-12-characteris_b_7836836.html
+
+#### _Unrelated_ to Goal-setting But Relevant to _My_ Goals
+
++ This is your brain on sugar: UCLA study shows
+high-fructose diet sabotages learning, memory
+http://newsroom.ucla.edu/releases/this-is-your-brain-on-sugar-ucla-233992
 
 #### Books
 
