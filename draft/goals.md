@@ -186,10 +186,12 @@ to ensure quality of sleep!
 
 <div align="center">
 <a href="#">
-  <img title="Baby Sleeping with Kitten" width="500"
+  <img title="Baby Sleeping with Kitten" width="1000"
   src="https://user-images.githubusercontent.com/194400/31043630-c62cf276-a5bf-11e7-9e70-1c216d2a61aa.jpg">
 </a>
 </div>
+
+Obligatory cat picture. (_sorry if it makes you feel sleepy...!_)
 
 ### > "_You know you're in love when you can't fall asleep because reality is finally better than your dreams._" ~ Dr. Seuss
 
@@ -462,10 +464,9 @@ The reason _family_ is _second_ after health
 
 # 3. Communication
 
+> **_SMART_ Goal**(s):
+> + **Invest** (_at least_) one "pomodoro" **writing** `each` **morning**.
 
-> **_SMART_ Goal**(s): **Invest** (_at least_) one "pomodoro"
-> **writing** `each` **morning**.
->
 
 <br />
 
@@ -492,11 +493,26 @@ when you have more time (_and a clear head_!)
 + Invite others to respond (_comments_) to foster dialog.
 + Call Mom, Dad & Gran regularly. (_see: evening routine above_)
 
-# 4. (_Self_) _Actualisation_
+
+# 4. Income & Expenditure
+
+_Most_ of my goals in the first 3 sections
+are _achievable_ with _minimal_ income.
+_However_, in order to "_unlock_" the "Top Level" of Maslow's Hierarchy,
+I'm going to need very _specific_ amounts of _cashflow_.
+
+1. Make "_enough_" money to cover all living expenses.
+2. Track all expenses to ensure that I know where the money is _going_.
+3. Determine how much _cash_ I need to invest in my **projects** (_see: section 4, above_)
 
 
 
-## 4.1 Code
+
+# 5. (_Self_) _Actualisation_
+
+Returning to the nomenclature derived by Maslow (_see: "0" section above_)
+
+## 5.1 Code
 
 + **Write code** for one of our projects **_every_ day**.
 (_opening an **issue** on GitHub with an idea or link is **not enough**
@@ -506,7 +522,7 @@ when you have more time (_and a clear head_!)
 software is the _best_ way way to "_leverage_" my time to
 the benefit of most people.
 
-## 4.2 Physical Things
+## 5.2 Physical Things
 
 `make` _useful_ things that solve real human problems.
 
@@ -519,21 +535,12 @@ a "**Laptop**" **on** your _lap_ for prolonged periods, _destroys_ posture!
 + Aquaponic/Aeroponic Food Growing Tower
 for fresh greens with ***Zero "Food Miles"***
 
-## 4.3 Plants
+## 5.3 Plants
 
 + Study natural sciences
 + Plant food-bearing Plant
 + Learn which are the best "_companion plants_" for each food plant.
 + Track as many variables as feasible.
-
-# 5. Income & Expenditure
-
-1. Make "_enough_" money to cover all living expenses.
-2. Track all expenses to ensure that I know where the money is _going_.
-3. Determine how much _cash_ I need to invest in my **projects** (_see: section 4, above_)
-
-
-
 
 
 
