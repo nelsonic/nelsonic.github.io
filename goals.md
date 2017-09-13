@@ -1,7 +1,8 @@
-# Goals
+# Personal Goals
 
 > `TODO`: find/insert death bed regret "more television" quote ... <br />
-> **Temporary Paraphrase**: "_Nobody on their death bed ever said: I wish I'd watched more TV..._"
+> ***Temporary Paraphrase***: "_Nobody on their death bed ever said:
+> I wish I'd watched more TV..._"
 
 > This post is _highly_ personal (_to me_),
 > I have only made it `public` so that the people in my life
@@ -21,14 +22,14 @@
 ## > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
 
 
-> Think of a time when  you wished you had started something sooner.
+> Think of a time when  you wished you had started something sooner. <br />
 > For example: learning a new skill,
-getting fit/strong or saving/investing money.
-> In all these things starting earlier make it easier/better,
-and yet _most_ people do not learn new skills after the age of 23
-(_preferring to spend their leisure time on activities they have
-done since childhood, or **much worse**: watching **television**
-or "**social media**"..._)
+> getting fit/strong or saving/investing money. <br />
+> In all these things starting earlier leads to "_better_" results,
+> and yet _most_ people do not learn new skills after the age of 23
+> (_preferring to spend their leisure time on activities they have
+> done since childhood, or **much worse**: mindlessly watching **television**
+> or consuming "**social media**"..._)
 > the vast _majority_ of people are _unfit_
 > only a _fraction_ of the global population are "_financially free_".
 > Unless you have _specific_ goal to achieve certain things in life,
@@ -128,6 +129,12 @@ which is when my **morning routine _must_ start**.
   + Always push to GitHub!!
   + Shut-down Computer (_not just "sleep"_) and say "_Shut Down Complete_"
 
+### 1.1.2 Screen Curfew
+
+  + No more screens after **21:00** (_set an alarm!_)
+  + Read a book on low (red) light or write in a journal instead.
+
+
 ## 1.2 _Nutrition_
 
 The _second_ most important step in achieving _any_ of my goals,
@@ -186,30 +193,61 @@ has a count-down tier and plays a sound.
 + Spend at _least_ **5 minutes** per day practicing
 (_learning_) ***meditation & mindfulness***.
 
-### 1.5 Screen Curfew
-
-+ No more screens after **21:00** (_set an alarm!_)
-
-
+> `TODO`: learn the essentials of Mediation & Mindfulness.
 
 # 2. Family/Loved Ones
 
-+ Spend more time with family in _person_.
+> "_**No one** ever said on their **deathbed**:
+'Gee, I **wish** I had **spent more time alone** with my **computer**'._"
+~ [Danielle Berry](https://en.wikipedia.org/wiki/Danielle_Bunten_Berry)
+
+I am _guilty_ of pouring **_way_ too much** of my time into my computer,
+and not anywhere _near_ as much in my relationships.
+_Trust_ me, I would _much_ rather win the lottery,
+never have to work again and spend all my time with family!
+(_more on that in section 4 below._)
+
+The reason _family_ is _second_ after health
+
++ Make/Spend more time with family in _person_.
 + Figure out how to track the _quality_ of time spent with family.
-+ Take more photos with family.
++ Take ***more photos*** with family.
+
+
 
 # 3. Communication
+
+> "_It's dreadful what **little things lead**
+people to **misunderstand** each other._"
+~ [Lucy Montgomery](https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery)
+
+> "_The single **biggest problem** in **communication**
+> is the **illusion** that it **has taken place**_."
+~ [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
+
+One of the areas of my life where I am _especially_ underachieving
+is communication.
+At _least_ once per ~~day~~ _hour_ I feel _frustrated_ because
+I feel someone has _misunderstood_ what I have said or written, <br />
+***or*** because _someone_ has not given sufficient instruction/clarity
+in a request that they have made.
+
+Poor communication is the _single_ biggest time-waster in
+an organisation and the biggest cause of relationship breakdown in families.
 
 + Avoid all "_arguments_" as they are simply misunderstanding
 due to poor communication. Instead _immediately **write down**_
 the source of the misunderstanding (_in notebook_) as a topic
 that requires clarification then _write_ out your point of view
 when you have more time (_and a clear head_!)
-+ Share my thoughts on a given topic on a daily basis.
++ Share my thoughts on a given topic on a _daily_ basis.
 + Invite others to respond (_comments_) to foster dialog.
 + Call Mom, Dad & Gran regularly. (_see: evening routine above_)
 
 # 4. (_Self_) _Actualisation_
+
+
+
 
 ## 4.1 Code
 
@@ -246,6 +284,10 @@ for fresh greens with ***Zero "Food Miles"***
 1. Make _enough_ money to cover all living expenses.
 2. Track all expenses to ensure that I know where the money is _going_.
 3. Determine how much _cash_ I need to invest in my **projects** (_see: section 4, above_)
+
+
+
+
 
 
 
