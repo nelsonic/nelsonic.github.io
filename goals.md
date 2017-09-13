@@ -423,12 +423,29 @@ https://youtu.be/p8eghGDZFUM
 (_surprisingly insightful even though it has v. few "views"_)
 
 
+#### Nick Vujicic: Overcoming Hopelessness
+
+"_We have a **choice**: either to **be angry** for what we **don't have**,
+**or** be **thankful** for what we **do have**._"
+
+If you're having a "_bad day_" or feeling at all "_down_", watch this:
+
+[![Overcoming hopelessness | Nick Vujicic](https://user-images.githubusercontent.com/194400/31005349-9402f646-a4f8-11e7-8f23-a2fe97f0bc66.png)](https://youtu.be/6P2nPI6CTlc)
+https://youtu.be/6P2nPI6CTlc
+
+Chances are you've got a _lot_ going for you.
+
+
 #### Eric Thomas: You _Owe_ You
 
 "_Many of you are taking anything, cause you don't know what you want!_" <br />
 "_And then once you find out what you want,
 spend the rest of your natural life waking up and going after it._" <br />
 "_You better **stop making excuses** and **find a way to win**._"
+"_You need to tell you: no more TV, no more snacks, no more deserts, no more,
+we're working out now._" <br />
+"_You need to tell you that you owe you something_."
+"_Cause I owe it to myself, and can't **nobody stop me but me**._"
 
 This is more of a "_motivational speech_" than a "_goal setting_" guide.
 
@@ -440,6 +457,8 @@ If you don't feel "_fired up_" after watching "ET",
 maybe his delivery is too "_passionate_"...
 _Personally_ his _message_ resonates with me.
 However, I _acknowledge_ that it's "_not for everyone_".
+
+Find what fires _you_ up and _use it_!
 
 
 #### Eric Thomas: ***How Bad*** Do You Want It?
