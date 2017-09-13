@@ -1,53 +1,59 @@
 # Personal Goals
 
-> `TODO`: find/insert death bed regret "more television" quote ... <br />
-> ***Temporary Paraphrase***: "_Nobody on their death bed ever said:
-> I wish I'd watched more TV..._"
+> As the title suggests,
+> this post is _highly personal_ (_to me_). <br />
+> I have only made it `public` so that the people _in_ my life <br />
+> can be _aware_ of my goals so they don't get "_annoyed_" <br />
+> with me when I ***skip dinner***
+> (_because I prefer to **not eat after 18:00**_) <br />
+> or **refuse** a ***sugary "food"*** (_junk_) because
+> I don't want to "_relapse_" into **_bad_ habits**. <br />
 
-> This post is _highly_ personal (_to me_),
-> I have only made it `public` so that the people in my life
-> can read it and be aware of my goals so they don't get "_frustrated_"
-> with me when I skip dinner because I don't eat after 18:00
-> or refuse a sugary food because I don't want to "_relapse_" into bad habits.
-> If you are _cynical_ about people having life goals
-> or you feel that you have achieved (_or are reaching_)
-> your potential _without_ setting goals,
-> please don't waste your time reading any further!
+> If you are _cynical_ about people having life goals <br />
+> or you feel that you have _already achieved_ <br />
+> (_or are reaching_)
+> your potential _without_ setting goals, <br />
+> _please_ don't waste _your_ time reading any further!
 
 
 ![what's your goal?](http://i.imgur.com/INlB8bq.jpg)
 
-## > “If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_.” ~ Albert Einstein
+### > “If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_.” ~ Albert Einstein
 
-## > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
+### > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
 
 
-> Think of a time when  you wished you had started something sooner. <br />
+> Think of a time when  you _wished_
+you had _started_ something _sooner_. <br />
 > For example: learning a new skill,
-> getting fit/strong or saving/investing money. <br />
-> In all these things starting earlier leads to "_better_" results,
-> and yet _most_ people do not learn new skills after the age of 23
+> working on a project with a tight deadline
+> getting fit/strong or saving/investing. <br />
+> In all these things _starting earlier_ leads to "_better_" results,
+> and yet _most_ people do not learn new skills
+after they leave "formal education"
 > (_preferring to spend their leisure time on activities they have
 > done since childhood, or **much worse**: mindlessly watching **television**
-> or consuming "**social media**"..._)
+> or consuming "**social media**"..._) <br />
 > the vast _majority_ of people are _unfit_
 > only a _fraction_ of the global population are "_financially free_".
 > Unless you have _specific_ goal to achieve certain things in life,
 > _statistically_, you will **not** achieve them.
 
 
-
-
-The _single_ most important thing we can do
+_Several_ studies have concluded that
+the _single_ most important thing we can do
 for our own long-term success in life
 is set _personal_ goals.
-Only by having goals can we make the _most_ of our lives.
+Only by having goals can we make the _most_ of our lives
+and minimise our regrets from wasted time.
 
 
-We need an _effortless_ way of _tracking_ if an activity is moving
-us **towards** (_or **away** from_) our _specific_ goal(s).
+Once we have clearly defined goals,
+we need an _effortless_ way of _tracking_ if an activity is moving
+us **towards** (_or **away** from_) our _specific_ goal(s);
+more about that later!
 
-I feel like this will be one of the most _important_ features of the "dwyl app".
+Setting of the most _important_ features of the "dwyl app".
 After all, how do you _know_ that you are **_doing_ what you love**...?
 
 I don't know if setting goals should be the _first_ step in the App's
@@ -63,20 +69,60 @@ their goals.
 # What are *My* (_Personal_) Goals?
 
 At the _start_ of 2017 I _shared_ my "**Todo List**":
-https://github.com/dwyl/phase-two/issues/40 for the year.
+https://github.com/dwyl/phase-two/issues/40 for the year. <br />
 While _several_ things have been "**checked off**" on the list,
-I have made almost _zero_ on a _number_ of them which makes me sad ...
+I have made almost _zero_ progress on a _number_ of them
+which makes me sad ...
 Rather than "_giving up_" on myself watching cartoons on Netflix,
 I'm attempting to ***re-focus*** on my **goals** by making them "***SMART***".
 
-> _**Note**: there is `some` evidence that sharing goals in `public`
-can lead to **not** achieving them (see: Derek Sivers TED Talk below),
-I feel that if I **don't** make the effort to **clearly communicate**
-my goals with the people in my life who can **help me** achieve them
+> _**Note**: while there is `some` evidence
+that sharing goals in `public` <br />
+can lead to **not** achieving them
+(see: Derek Sivers TED Talk below), <br />
+I feel that if I **don't** make the effort
+to **clearly communicate** <br />
+my goals with the people in my life
+who can **help me** achieve them <br />
 (e.g: my [**wonderful wife**](@iteles) and other close relatives
-who may be expecting me to stay up late at "Dinner" or
-work colleagues who may expect a reply to an email after 20:00 at night...)
-I am **going** to fail._
+who may be <br />
+expecting me to stay up late at "Dinner" or work colleagues <br />
+who may expect a reply
+to an email after 20:00 at night...) <br />
+I am **unlikely** to **succeed**._
+
+# 0. Home: Shelter, Safety & Social (Hygiene Factors)
+
+Maslow's
+["hierarchy of needs"](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+lists "Physiological", "Safety"
+and "Love/Belonging" ("social belonging")
+as the two most ***basic*** _foundational_ "***needs***":
+
+[![maslow needs pyramid](https://user-images.githubusercontent.com/194400/30957524-cf24fdb4-a43a-11e7-8a44-dde66273e141.png)](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+
+> _**Note: If you are **unfamiliar** with Maslow's work,
+> I **highly recommend** you take a quick detour to learn!_
++ Read: https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
++ Listen: http://www.npr.org/programs/ted-radio-hour/399796647/maslows-human-needs
+
+For **_many_ people** these **_basic_ needs** are **not met**
+which is _outrageous_ in a world with so much wealth!
+This is not the place to discuss "_wealth re-distribution_",
+however I/we do have an _explicit_ goal of helping
+_everyone_ achieve the most basic needs.
+see: [github.com/dwyl/**phase-two**](https://github.com/dwyl/phase-two)
+
+On more than one occasion I have been both _homeless_ and _unemployed_.
+I've had a a _taste_ of how soul-destroying it is
+to _not_ have a place to call "_home_"
+and _understand_ how not having the "basics"
+makes achieving virtually _any_ other goal _impossible_.
+
+_Thankfully_, today I have a home where I am "warm, dry and safe". <br />
+I am _blessed_ to have access to fresh/clean water
+and (_no shortage_) of food! (_see "Nutrition" section below_)
+
 
 
 # 1. Health
@@ -88,7 +134,10 @@ everything else is either impossible or takes much more time!
 
 > **_SMART_ Goal**: Be asleep by 22:00 each night.
 
-Tiredness inhibits _all_ other progress towards _any_ (_of my_) goal!
+> _**Sleep** is **essential** for achieving **anything** in life! see_: 
+http://www.npr.org/2015/04/17/399800134/why-do-we-need-sleep
+
+_Tiredness_ inhibits _all_ other progress towards _any_ (_of my_) goals!
 I need to get _plenty_ of rest by getting an _early_ night.
 
 When I am tired I often loose sight of my goals
@@ -101,6 +150,7 @@ I get impatient, irritable/"snappy" and **far less productive**._
 I need to follow these **rules**:
 + "_If I'm feeling tired, **sleep**!_"
 + Avoid Eating to "_boost energy_" >> Drink Water or _Sleep_!!
++ Ensure the bedroom is "_as **dark** as **possible**_"
 
 ### What does this mean in _Practical_ Terms?
 
@@ -197,9 +247,7 @@ has a count-down tier and plays a sound.
 
 # 2. Family/Loved Ones
 
-> "_**No one** ever said on their **deathbed**:
-'Gee, I **wish** I had **spent more time alone** with my **computer**'._"
-~ [Danielle Berry](https://en.wikipedia.org/wiki/Danielle_Bunten_Berry)
+### > "_**No one** ever said on their **deathbed**: 'Gee, I **wish** I had **spent more time alone** with my **computer**'._" ~ [Danielle Berry](https://en.wikipedia.org/wiki/Danielle_Bunten_Berry)
 
 I am _guilty_ of pouring **_way_ too much** of my time into my computer,
 and not anywhere _near_ as much in my relationships.
@@ -225,8 +273,8 @@ people to **misunderstand** each other._"
 > is the **illusion** that it **has taken place**_."
 ~ [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw)
 
-One of the areas of my life where I am _especially_ underachieving
-is communication.
+One of the areas of my life
+where I am _especially_ "_underachieving_" is ***communication***.
 At _least_ once per ~~day~~ _hour_ I feel _frustrated_ because
 I feel someone has _misunderstood_ what I have said or written, <br />
 ***or*** because _someone_ has not given sufficient instruction/clarity
@@ -281,6 +329,8 @@ for fresh greens with ***Zero "Food Miles"***
 
 # 5. Income & Expenditure
 
+
+
 1. Make _enough_ money to cover all living expenses.
 2. Track all expenses to ensure that I know where the money is _going_.
 3. Determine how much _cash_ I need to invest in my **projects** (_see: section 4, above_)
@@ -297,6 +347,13 @@ for fresh greens with ***Zero "Food Miles"***
 
 #### Articles
 
+
++ Harvard (Academic) Literature Review
+on the effectiveness of Goal Setting: <br />
+Citation: https://vpal.harvard.edu/publications/setting-goals-who-why-how <br />
+PDF: https://hilt.harvard.edu/files/hilt/files/settinggoals.pdf
++ The Harvard MBA Business School **Study** on **Goal Setting**:
+https://www.wanderlustworker.com/the-harvard-mba-business-school-study-on-goal-setting
 - 5 Reasons Why You Should Commit Your Goals to Writing (Michael Hyatt):
 http://michaelhyatt.com/5-reasons-why-you-should-commit-your-goals-to-writing.html
 - Personal Goals: http://en.wikipedia.org/wiki/Goal#Personal_goals
@@ -307,6 +364,8 @@ http://michaelhyatt.com/5-reasons-why-you-should-commit-your-goals-to-writing.ht
 (good *alternative* perspective on acheiving goals)
 - Developing SMART Goals:
 http://en.wikipedia.org/wiki/SMART_criteria#Developing_SMART_goals
++ Maslow: The 12 Characteristics of a Self-Actualized Person:
+http://www.huffingtonpost.com/david-sze/maslow-the-12-characteris_b_7836836.html
 
 #### Books
 
