@@ -62,7 +62,7 @@ Once we have ***clearly defined goals***,
 we need an _effortless_ way of _tracking_ if an activity is moving
 us **towards** (_or **away** from_) our _specific_ goal(s);
 more about that later!
-
+<!--
 Setting of the most _important_ features of the "dwyl app".
 After all, how do you _know_ that you are **_doing_ what you love**...?
 
@@ -72,7 +72,7 @@ with the people _using_ the app,
 however I do know that it will be _important_ to help people _capture_
 their goals.
 
-
+-->
 
 # What (Are *My* _Personal_ Goals)?
 
@@ -95,7 +95,7 @@ I feel that if I **don't** make the effort
 to **clearly communicate** <br />
 my goals with the people in my life
 who can **help me** achieve them <br />
-(e.g: my [**wonderful wife**](@iteles) and other close relatives
+(e.g: my [**wonderful wife**](https://github.com/iteles) and other close relatives
 who may be <br />
 expecting me to stay up late at "Dinner" or work colleagues <br />
 who may expect a reply
@@ -109,7 +109,7 @@ In his 1943 paper "_A Theory of Human Motivation_", Maslow's
 <br />
 lists "Physiological", "Safety"
 and "Love/Belonging" ("social belonging") <br />
-as the two most ***basic*** _foundational_ "***needs***":
+as the three most ***basic*** _foundational_ "***needs***":
 
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs">
@@ -195,9 +195,10 @@ Obligatory cat picture. (_sorry if it makes you feel sleepy...!_)
 
 ### > "_You know you're in love when you can't fall asleep because reality is finally better than your dreams._" ~ Dr. Seuss
 
-_**Sleep** is **essential** for achieving **anything** in life! see_:
+_**Sleep** is **essential** for achieving **anything** in life! <br />
+see_:
 http://www.npr.org/2015/04/17/399800134/why-do-we-need-sleep <br />
-_Tiredness_ inhibits _all_ other progress towards _any_ (_of my_) goals!
+_Tiredness_ inhibits _all_ other progress towards _any_ (_of my_) goals! <br />
 I need to get _plenty_ of rest by getting an _early_ night.
 
 When I am tired I often loose sight of my goals
@@ -209,7 +210,7 @@ I get impatient, irritable/"snappy" and **far less productive**._
 
 I need to follow these **rules**:
 + "_If I'm feeling tired, **sleep**!_"
-+ Avoid Eating to "_boost energy_" >> Drink Water or _Sleep_!!
++ Avoid eating to "_boost energy_" >> Drink Water or _Sleep_!!
 + Ensure the bedroom is "_as **dark** as **possible**_"
 
 ### What does this mean in _Practical_ Terms?
@@ -320,7 +321,9 @@ My objective with exercise is to ***minimise inertia***
 
 ### 1.3.1 Sample Morning Exercise Routine
 
-+ 20 sec of exercise (_as many "good reps"_ as possible) followed by 10 seconds of rest. 5 mins = 600 seconds;
++ 20 sec of exercise (_as many "good reps"_ as possible)
+followed by 10 seconds of rest. 5 mins = 600 seconds;
+
 + 00:00 - 00:20 Push-ups
 + 00:20 - 00:30 Rest
 + 00:30 - 00:50 Sit-ups
@@ -341,7 +344,112 @@ My objective with exercise is to ***minimise inertia***
 + 04:20 - 04:30 Rest
 + 04:30 - 05:00 Plank 2
 
-> `TODO`: write a "mini-app" that:
+### 1.3.2 Sample Morning Exercise Routine _Revisited_
+
+After a few months of doing my morning bodyweight exercise routine
+I defined (_above_),
+I can _easily_ do the two sets of push-ups and plank;
+which I consider the most "_taxing_" exercises.
+I feel that I should be doing more with legs
+because legs are "half my body",
+and (_according to my "DEXA" scan_)
+where roughly 40% of my "fat" is.
+So I need to turn up the "heat" and get the blood pumping to my legs!
+
+
+I have thought about (_and researched!_) the _effectiveness_ of "Leg Abductors",
+and concluded that they aren't _effective_ for my _current_ goals: fat burning.
+So I've decided to replace them.
+
+My "revised routine" is both _simplified_ and _slightly_ extended.
+Rather than doing 5 minutes (_which I now find quite "easy"_)
+I'm _calculating_ how long I need to exercise for based on how many "sets"
+I want to do of `each` exercise.
+
+Whereas _`before`_ I was doing **6** different exercises,
+now I will be doing ***5***:
+
+#### Pushups
+
+![pushups](https://user-images.githubusercontent.com/194400/35187597-534742e0-fe1e-11e7-9263-059fd05a89ec.gif)
+
+
+#### Bridges
+
+![lying-hip-raises](https://user-images.githubusercontent.com/194400/36350284-ed291d0e-148d-11e8-94f5-0ce0abefd056.gif)
+
+#### Plank
+
+![plank](https://user-images.githubusercontent.com/194400/36350310-6baf0dd2-148e-11e8-9f88-0ba67cd1fa28.gif)
+
+
+#### Squats
+
+![squats](https://user-images.githubusercontent.com/194400/35187591-3900b416-fe1e-11e7-8779-80d7c31912e2.gif)
+
+#### Lunges
+
+![lunges](https://user-images.githubusercontent.com/194400/36350306-5873c776-148e-11e8-8427-227002877eb7.gif)
+
+#### How Many?
+
++ 5 exercises x **3 sets** each = **15 sets***
++ 15 sets x 20 seconds (per set) = 300 seconds
+(_still "only" **5 minutes** of actual exercise!_)
+
+In the original routine, there was a rest period after each exercise. <br />
+_From **experience**_,
+I don't _need_ a "rest period" between certain exercises
+e.g: between pushups and plank and squats to lunges.
+So I'm cutting certain "rests" to **_increase_ intensity**!
+Instead I am placing the rest time where I _need_ it,
+which is mostly during "_transitions_" from floor-based exercises
+to _standing_ ones e.g: from a "Bridge" to "Squats".
+
+There are _still_ **8** rest periods in my routine,
+these are _realistic_ and allow me to catch my breath.
+
+#### _Revised_ Bodyweight Exercise Routine
+
+#### Set 1
+
++ 00:00 - 00:30 **Push-ups** (_fewer good reps is better, hold at top!_)
++ 00:30 - 01:00 **Plank** (_go straight into plank without rest_)
++ 01:00 - 01:10 "Rest" (_**prepare** for bridge exercise; start ASAP!_)
++ 01:10 - 01:30 **Bridge** ("Lying Hip Raises")
++ 01:30 - 01:40 "Rest" (_**prepare** for lunges by standing up to rest..._)
++ 01:40 - 02:00 **Squats** (_go as **low** as you can_)
++ 02:00 - 02:20 **Lunges** (_no need to "rest" between squats and lunges!_)
++ 02:20 - 02:30 "Rest" (_get ready for the second round!_)
+
+
+#### Set 2
+
++ 02:30 - 03:00 **Push-ups** (_yes, it's 30 seconds! pace yourself!_)
++ 03:00 - 03:20 **Plank** (_straight into plank from pushups_)
++ 03:20 - 03:30 "Rest" (_**prepare** for bridge exercise; start ASAP!_)
++ 03:30 - 03:50 **Bridge** ("Lying Hip Raises")
++ 03:50 - 04:00 "Rest" (_**prepare** for lunges by standing up to rest..._)
++ 04:00 - 04:30 **Squats** (_go as **low** as you can! Yes, **30 seconds**!!_)
++ 04:30 - 04:50 **Lunges** (_no need to "rest" between squats and lunges!_)
++ 04:50 - 05:00 "Rest" (_get ready for the second round!_)
+
+
+#### Set 3
+
++ 05:00 - 05:20 **Push-ups** (_go straight into plank from pushups_)
++ 05:20 - 05:40 **Plank** (_keep good form!_)
++ 05:40 - 05:50 "Rest" (_**prepare** for bridge exercise; start ASAP!_)
++ 05:50 - 06:10 **Bridge** ("_Lying Hip Raises_")
++ 06:10 - 06:20 "Rest" (_**prepare** for lunges by standing up to rest..._)
++ 06:20 - 06:40 **Squats** (_go as **low** as you can! Yes, **30 seconds**!!_)
++ 06:40 - 07:00 **Lunges** (_no need to "rest" between squats and lunges!_)
++ 07:00 >> ***Done***!
+
+
+### 1.3.3 Todo
+
+Write a "mini-app" that:
 + [ ] Displays a count-down timer for the _current_ exercise.
 + [ ] Shows a suggested Yoga Pose to do during the "rest" period
 + [ ] Displays the _next_ exercise while showing the rest count-down.
