@@ -29,7 +29,16 @@ _Before_ we dive in, let's take a moment to _clarify_ a few definitions:
 + **Process of _Elimination_**: a **process** of **deleting options** whereby 
   the **remaining options** have the higest chance of being **correct**. 
   See: https://en.wikipedia.org/wiki/Process_of_elimination 
-  Note: this is not a "full proof" 
++ **Proactive** behavior involves acting in advance of a future situation, rather than just _reacting_.
+  It means taking control and making things happen rather than just adjusting 
+  to a situation or waiting for something to happen.
+  https://en.wikipedia.org/wiki/Proactivity
+  **Note**: this is ***not*** the same as being 
+  [***preoccupied***](https://en.wiktionary.org/wiki/preoccupied)
+  which is allowing your attention to be prematurely occupied 
+  by an _uncertain_ future event _without_ taking any _action_ to reduce it's impact. 
+  E.g: _worrying_ about getting ill but not _systematically_ reducing the risk
+  of illness by altering one's nutritional intake.
 
 ## Axioms
 
@@ -43,19 +52,33 @@ _Before_ we dive in, let's take a moment to _clarify_ a few definitions:
   For the purpose of this discussion, the 
   [**multiverse**](https://en.wikipedia.org/wiki/Multiverse) is not considered
   to avoid giving yourself the _excuse_ that "the **other you**" is using their life effectively, 
-  so you don't have to! Feel free to discuss "parallel universes" in your own "spare time".
+  so you don't have to! Feel free to discuss "parallel universes" 
+  and "many worlds" in your own "spare time".
 + A **decision** to spend your time on a particular activity 
   means ***forgoing*** an **_alternative_ activity** for that "_block_" of time. 
   See: https://en.wikipedia.org/wiki/Opportunity_cost
++ **Indecision** is _still_ a (_form of_) _decision_; you are simply _deferring_ being _proactive_.
 
 
 ## Assumptions
 
-The 
++ The reader _wants_ to use their life/time effectively. <br />
+(_if you have not made the **decision** to take control of your life, don't read this._)
+
 
 ## Caveats
 
+![house-md-blame-it-on-the-boogie](https://user-images.githubusercontent.com/194400/36846983-b1ae527e-1d54-11e8-8478-a6bf462f1ff6.png)
 
+This method of _eliminating_ from a range of available options
+will not result in "_100% certainty_", instead it is a good _approximation_
+that will help people who are "stuck".
+This is _similar_ to a medical 
+["***diagnosis of exclusion***"](https://en.wikipedia.org/wiki/Diagnosis_of_exclusion)
+which does _not_ give "complete confidence", 
+but "rules out" _most_ other diagnosis
+so the "patient" does not have to "worry" 
+about the diseases/conditions they do _not_ have.
 
 
 
@@ -64,16 +87,34 @@ The
 
 ![macgyver-too-easy](https://user-images.githubusercontent.com/194400/36802094-b3aab5a8-1cab-11e8-981a-a22768b07023.png)
 
-If you don't _already_ know me, I am a [reductionist](https://en.wikipedia.org/wiki/Reductionism).
-The fact that 
+For _some_ people their "life purpose" is _obvious_ 
+and they just _get on_ with it, 
+while for _others_ it's _inconceivable_ 
+and they are "_stuck_" and often "_give up_" 
+on searching for / finding theirs.
+
+
+...
+
+
+If you don't _already_ know me, 
+I am a [reductionist](https://en.wikipedia.org/wiki/Reductionism).
+I like to "break things down" into _simpler_ parts wherever _possible_.
+
+That means for _example_, if you are considering your own life, 
+you _can_ break it down into:
++ past (_you cannot change_)
++ present (_mostly within your control_)
++ future (_something to look forward to but, depends on others. i.e. has "uncertainty"_)
 
 
 
 
+Good Summary: https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
+Full text: https://archive.org/details/MansSearchForMeaning-English
+PDF: [ViktorFrankl-MansSearchForMeaningpsychologyPsychotherapyPhilosophy-o.pdf](https://ia800205.us.archive.org/27/items/MansSearchForMeaning-English/ViktorFrankl-MansSearchForMeaningpsychologyPsychotherapyPhilosophy-o.pdf)
 
-https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
-
-According 
+According ...
 
 
 
