@@ -14,7 +14,7 @@ defmodule App do
   """
   def hello do
 
-    filename = __ENV__.file # "./app.ex"
+    filename = Path.join(File.cwd!, "public/test.md") # __ENV__.file # "./app.ex"
     IO.puts filename
     case File.read(filename) do
       {:ok, body}      -> # do something with the `body`
