@@ -15,10 +15,12 @@ defmodule App do
   def hello do
 
     filename = Path.join(File.cwd!, "public/test.md") # __ENV__.file # "./app.ex"
-    IO.puts filename
+    # IO.puts filename
     case File.read(filename) do
-      {:ok, body}      -> # do something with the `body`
-        IO.puts body
+      {:ok, markdown}      -> # do something with the `body`
+        IO.puts markdown
+        html_doc = Earmark.as_html!(markdown)
+        IO.puts html_doc
       {:error, reason} -> # handle the error caused by `reason`
         IO.puts reason
     end
