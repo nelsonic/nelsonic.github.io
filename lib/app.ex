@@ -13,6 +13,15 @@ defmodule App do
 
   """
   def hello do
-    :world
+
+    filename = __ENV__.file # "./app.ex"
+    IO.puts filename
+    case File.read(filename) do
+      {:ok, body}      -> # do something with the `body`
+        IO.puts body
+      {:error, reason} -> # handle the error caused by `reason`
+        IO.puts reason
+    end
   end
+
 end
