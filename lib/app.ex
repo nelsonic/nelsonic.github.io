@@ -12,8 +12,7 @@ defmodule App do
       :world
 
   """
-  def hello do
-
+  def transform do
     filename = Path.join(File.cwd!, "p/goals.md") # __ENV__.file # "./app.ex"
     # IO.puts filename
     case File.read(filename) do
@@ -27,5 +26,4 @@ defmodule App do
         IO.puts reason
     end
   end
-
 end
