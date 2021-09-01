@@ -4,26 +4,39 @@ defmodule App do
   """
 
   @doc """
-  Hello world.
+  transform the markdown (.md) files into HTML
 
   ## Examples
 
-      iex> App.hello()
-      :world
+      iex> App.transform()
+      test.md > test.html
 
   """
   def transform do
-    filename = Path.join(File.cwd!, "p/goals.md") # __ENV__.file # "./app.ex"
-    # IO.puts filename
-    case File.read(filename) do
-      {:ok, markdown}      -> # do something with the `body`
-        IO.puts markdown
-        html_doc = Earmark.as_html!(markdown)
-        IO.puts html_doc
-        html_path = Path.join(File.cwd!, "p/goals.html")
-        File.write!(html_path, html_doc)
-      {:error, reason} -> # handle the error caused by `reason`
-        IO.puts reason
-    end
+    dir = Path.join(File.cwd!, "p/") <> "/"
+    IO.inspect dir, label: "dir"
+    files = Path.wildcard("#{dir}/*.md") # stackoverflow.com/questions/40719082
+    IO.inspect files, label: "files"
+
+    map = Enum.map(files, fn filepath ->
+      IO.inspect filepath
+      filename = String.replace(filepath, dir, "") |> String.replace(".md", "")
+      IO.inspect filename, label: "filename"
+
+      case File.read(filepath) do
+        {:ok, markdown} -> # do something with the `body`
+          # IO.puts markdown
+          html_doc = Earmark.as_html!(markdown)
+          # IO.puts html_doc
+          html_path = Path.join(dir, "#{filename}.html")
+          File.write!(html_path, html_doc)
+          IO.puts "#{filename}.md > #{filename}.html"
+        {:error, reason} -> # handle the error caused by `reason`
+          IO.puts reason
+      end
+      filename
+    end)
+    # use the map of posts to create an index:
+    IO.inspect map, label: "map"
   end
 end
