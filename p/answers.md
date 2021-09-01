@@ -21,14 +21,14 @@ and thus improve my emotional intelligence.
 I discovered @dwyl when Inês
 [suggested it](https://github.com/dwyl/time/issues/28#issuecomment-96254680)
 as a name for our App/company.
-
+<br />
 
 ## 1. Why are you here?
 
 I'm here because Inês and I agreed to
 join forces and work together on the App/Company
 rather than working separately for other organisations.
-
+<br />
 
 ## 2. Is there anywhere you would rather be or anything you would prefer to be doing right now?
 
@@ -38,7 +38,7 @@ and thereby maximize personal effectiveness and share it with others
 I can achieve _anything_ in the future.
 I see building this App as _foundational_ for all other success in life.
 Without it my _whole life_ will be sub-optimal.
-
+<br />
 
 ## 3. Is there a "significant person" (or people) in your life?
 
@@ -188,6 +188,7 @@ It's better to lose them as a "friend"
 than to continue wasting your precious time.
 Life is too short 
 and you will only have heartache.
+<br />
 
 <!--
 They have been brought up 
@@ -247,6 +248,7 @@ being a parent.
 It's challenging because I'm still working full-time 
 and haven't had much sleep in the last few months.
 But it's something I'm _delighted_ about.
+<br />
 
 ## 11. Have you ever _failed_ to take advantage of an amazing one-time opportunity?
 
@@ -261,7 +263,7 @@ If it makes sense take it with both hands!
 It helps to have a **journal**
 where you write down your all thoughts
 and refer back to them.
-
+<br />
 
 
 ## 12. What have you made a conscious choice to say 'no' to even though it was a great opportunity; and why?
@@ -303,7 +305,7 @@ Amazon is an amazing company from a _technical_ perspective.
 I politely declined the invite 
 because I wanted to focus on what I'm doing.
 -->
-
+<br />
 
 ## 13. Is there a person you used to be close to who you no longer speak to? Why?
 
@@ -368,7 +370,7 @@ They lied and stole from me.
 2 years later I helped pay for their rehab
 and they managed to get and stay "clean".
 All was forgiven.
-
+<br />
 
 ## 14. "What important truth do very few people agree with you on?"
 
