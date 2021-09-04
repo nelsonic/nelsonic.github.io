@@ -26,7 +26,14 @@ defmodule App do
       case File.read(filepath) do
         {:ok, markdown} -> # do something with the `body`
           # IO.puts markdown
-          html_doc = Earmark.as_html!(markdown)
+          options = %Earmark.Options{
+            smartypants: false, # 
+            breaks: false, # don't treat semantic linefeeds as breaks
+            escape: false, # don't escape html 
+            gfm: true,
+          }
+          IO.inspect options
+          html_doc = Earmark.as_html!(markdown, options)
           # IO.puts html_doc
           html_path = Path.join(dir, "#{filename}.html")
           File.write!(html_path, html_doc)
