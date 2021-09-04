@@ -34,7 +34,7 @@ The **Wired** article from last year written by https://twitter.com/antoniogm
 had a similarly _dismissive_ conclusion:
 https://www.wired.com/story/facebooks-listening-smartphone-microphone
 
-## _“Privacy is No Longer The Norm”_
+## _"Privacy is No Longer The Norm"_
 
 ![image](https://user-images.githubusercontent.com/194400/37229443-e843c926-23db-11e8-8680-958f6b499db3.png)
 

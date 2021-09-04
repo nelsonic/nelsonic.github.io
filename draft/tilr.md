@@ -16,7 +16,7 @@ in the case study photo...)
 
 ## Thoughts
 
-### Why I Took the Contract
+### Why I Took the Contract
 
 While I *don't agree* with *many* things Pearson has done in the past as a
 company (see below), I do ***love*** their ***motto*** ("***Always Learning***")  
@@ -37,7 +37,7 @@ other education-focussed organizations how to be **Lean**.
 http://www.unboxedconsulting.com/people
 (its a *great* place to work - if you're a Rails dev!)
 
-### Outcome?
+### Outcome?
 
 We launched the app with two schools and saw *SnapChat* levels of engagement!
 Kids loved it! We had deliberately borrowed ideas from Twitter (encourage concise posts with character count-down), Instagram (photo sharing),

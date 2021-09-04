@@ -19,7 +19,7 @@ low-latency platform for handling real-time data feeds.
 - http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 
-### "Cheap" Machines
+### "Cheap" Machines
 
 > For these tests, I had six machines each has the following specs  
 > - Intel Xeon 2.5 GHz processor with six cores  

@@ -1,5 +1,5 @@
-> “*If your **actions inspire others** to dream more, learn more,  
-> do more and become more, you are a **leader**.*” ~ John Quincy Adams
+> "*If your **actions inspire others** to dream more, learn more,  
+> do more and become more, you are a **leader**.*" ~ John Quincy Adams
 
 ---
 > "*The monotony and solitude of a **quiet** life
@@ -19,11 +19,11 @@
 > **not** the **measurable important***." ~ Ken Robinson
 
 ---
-> “*We can complain because rose bushes have thorns,  
-> or **rejoice because thorn bushes have roses***.” ~ Abraham Lincoln
+> "*We can complain because rose bushes have thorns,  
+> or **rejoice because thorn bushes have roses***." ~ Abraham Lincoln
 
 ---
-> “*A **goal without** a **plan** is just a **wish***.” ~ Antoine de Saint-Exupéry
+> "*A **goal without** a **plan** is just a **wish***." ~ Antoine de Saint-Exupéry
 
 ---
 > "*A **goal** is a **dream with** a **deadline**.*" ~ Napoleon Hill
@@ -42,7 +42,7 @@
 
 ---
 
-> “*The **price** of anything is the **amount** of **life** you **exchange for it**.*”
+> "*The **price** of anything is the **amount** of **life** you **exchange for it**.*"
 ~ Henry David Thoreau
 
 ---

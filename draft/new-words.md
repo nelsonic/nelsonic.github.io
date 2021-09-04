@@ -2,8 +2,8 @@
 
 # > Work in Progress *Please ignore*!
 
-“***If you want something new,
-you have to stop doing something old***.”<br />
+"***If you want something new,
+you have to stop doing something old***."<br />
 ~ Peter Drucker
 
 # How do we introduce new ideas?

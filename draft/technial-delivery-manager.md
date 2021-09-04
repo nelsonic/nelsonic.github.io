@@ -54,7 +54,7 @@ I agree 100%! I'm not here to "manage" the work or people.
 I'm here to be a [servant leader](http://en.wikipedia.org/wiki/Servant_leadership)
 to help everyone be more productive by resolving issues we face.
 
-## TDM's Responsibilities
+## TDM's Responsibilities
 
 - **Help** when anyone gets stuck with their development tasks.
 - **Clarify technical queries** (Angular.js, Node.js,

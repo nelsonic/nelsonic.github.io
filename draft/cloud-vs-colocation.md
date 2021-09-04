@@ -237,7 +237,7 @@ https://www.facebook.com/zuck/posts/10100828955847631
 ("*We hadn't even heard of PRISM*"... lol!
 http://gawker.com/5636765/facebook-ceo-admits-to-calling-users-dumb-fucks)
 
-### Environmental Policy?
+### Environmental Policy?
 
 Servers are notoriously power-hungry. Each "blade" uses between 500w and 2kw.
 and most hosting/"cloud" service providers have *thousands* of them!

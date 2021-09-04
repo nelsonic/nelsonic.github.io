@@ -24,7 +24,7 @@
 
 # _Why_?
 
-### > “If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_.” ~ Albert Einstein
+### > "If you _want_ to live a _happy life_, tie it to a _goal_, _not_ to _people or things_." ~ Albert Einstein
 
 **_Several_ studies** have concluded that
 the **_single_ most important _predictor_**
@@ -33,9 +33,9 @@ is setting **_personal_ goals**.
 **Only** by having goals can we make the _most_ of our lives
 and ***minimise*** our **regrets** from ***wasted time***.
 
-> "_**Setting goals increases achievement**. 
-**Hundreds** of **correlational** and **experimental studies** show evidence 
-that **setting goals increase success rate** in various settings._"
+> "_**Setting goals increases achievement**. 
+**Hundreds** of **correlational** and **experimental studies** show evidence 
+that **setting goals increase success rate** in various settings._"
 ~ Selen Turkay (2014). Setting Goals: Who, Why, How?
 (_Harvard Initiative for Learning and Teaching_)
 
@@ -76,7 +76,7 @@ their goals.
 
 # What (Are *My* _Personal_ Goals)?
 
-### > “_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_” ~ Jim Rohn
+### > "_The ultimate reason for setting goals is to entice you to become the person it takes to achieve them_" ~ Jim Rohn
 
 
 At the _start_ of 2017 I _shared_ my "**Todo List**":
@@ -685,7 +685,7 @@ http://www.huffingtonpost.com/david-sze/maslow-the-12-characteris_b_7836836.html
 high-fructose diet sabotages learning, memory
 http://newsroom.ucla.edu/releases/this-is-your-brain-on-sugar-ucla-233992
 
-#### Books
+#### Books
 
 - Goals - Brian Tracy: http://www.amazon.com/Goals-Everything-Faster-Thought-Possible/dp/1605094110
 (I *highly* recommend listening to the **audio-book** if
@@ -756,7 +756,7 @@ However, I _acknowledge_ that it's "_not for everyone_".
 Find what fires _you_ up and _use it_!
 
 
-#### Eric Thomas: ***How Bad*** Do You Want It?
+#### Eric Thomas: ***How Bad*** Do You Want It?
 
 This is more of a "_motivational speech_" by Eric Thomas,
 who is one of the _best_ "life coaches". <br />

@@ -16,7 +16,7 @@ so that I can _understand_ ***exactly*** what you found unpleasant
 and thus improve my emotional intelligence.
 
 
-## 0. How did you discover @dwyl?
+## 0. How did you discover @dwyl?
 
 I discovered @dwyl when Inês
 [suggested it](https://github.com/dwyl/time/issues/28#issuecomment-96254680)
@@ -25,12 +25,12 @@ as a name for our App/company.
 
 ## 1. Why are you here?
 
-I'm here because Inês and I agreed to
+I'm here because [Ines](https://github.com/iteles) and I agreed to
 join forces and work together on the App/Company
-rather than working separately for other organisations.
+rather than working _separately_ for other organizations.
 <br />
 
-## 2. Is there anywhere you would rather be or anything you would prefer to be doing right now?
+## 2. Is there anywhere you would rather be or anything you would prefer to be doing right now?
 
 No. I know that by focussing on building an App that I can use
 to track my progress on my highest priority tasks/activities
@@ -47,7 +47,7 @@ I would love to spend more time with family (parents, siblings & cousins) and fr
 that will become easier once [@home](https://github.com/dwyl/home) is open. 🏡
 <br />
 
-## 4. Who is the person (or list of people) that most encourages you to keep improving?
+## 4. Who is the person (or list of people) that most encourages you to keep improving?
 
 Myself. Unquestionably, I push myself to learn and do more.
 Not to be disrespectful or be harsh to anyone else in my life/family,
@@ -93,7 +93,7 @@ and innovation hub.
 <!-- with integrated vertical aero/acquaponic farming. -->
 <br />
 
-## 6. If you could work on any challenge/problem, what would it be?
+## 6. If you could work on any challenge/problem, what would it be?
 
 The **biggest challenge** humanity will face in the **next 20 years**
 is **mass** technology-driven **disruption** of **employment** as we know it today.

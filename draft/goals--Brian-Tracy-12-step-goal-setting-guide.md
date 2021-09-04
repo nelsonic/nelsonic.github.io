@@ -26,7 +26,7 @@ You _must_ write out your goals as if you were placing an order in a factory at 
 
 
 ## 3. Set a `Deadline`.
-#### _Your subconscious mind uses deadlines as “forcing systems” to drive you , consciously and unconsciously toward achieving your goal on schedule._
+#### _Your subconscious mind uses deadlines as "forcing systems" to drive you , consciously and unconsciously toward achieving your goal on schedule._
 
 1. If your goal is big enough, set sub-deadlines.
 2. If you want to achieve financial independence, you may set a 10 or 20-year goal, and
@@ -52,11 +52,11 @@ at which you achieve your goal. What is it for you?_
 1. Especially, identify the skills that you will have to develop to be in the top 10% of
 your field.
 2. Your ***weakest key skill*** sets the height of your income and your success.
-i. Key Question: “What one skill, if you developed and did it in an excellent
-fashion, would have the greatest positive impact on your life?” Whatever the
+i. Key Question: "What one skill, if you developed and did it in an excellent
+fashion, would have the greatest positive impact on your life?" Whatever the
 skill, write it down, make a plan and work on it every single day.
 
-> _**Key Question**: “What **one skill**, if you developed and did it in an excellent fashion, would have the greatest positive impact on your life?_”
+> _**Key Question**: "What **one skill**, if you developed and did it in an excellent fashion, would have the greatest positive impact on your life?_"
 
 
 ## 6. Identify the `People` whose help and cooperation you will require to achieve your goal.
@@ -69,7 +69,7 @@ require.
 3. Especially, identify the **customers** whose support you will need to sell
 enough of your product or service to make the kind of money that you want.
 4. Once you have identified the key people whose help you will require, ask yourself
-this question, “What’s in it for them?”
+this question, "What’s in it for them?"
 5. To achieve big goals you will have to have the help and support of lots of people.
 6. The most successful people are those who build and maintain the largest networks of
 other people whom they can help and who can help them in return.
@@ -124,11 +124,11 @@ the more you will accomplish in less time.
 
 1. Set priorities on your list using the 80/20 Rule.
 Ask yourself this question:
-“_If I could **only do one thing** on this **list**,
-which **one activity** is **most important**?_”
-Whatever you answer to that question, put a number “1” next to that activity.
-2. Then, ask yourself, “If I could only do one other task on this list, which one task would
-be the most valuable use of my time?” Then write a number “2” next to that task.
+"_If I could **only do one thing** on this **list**,
+which **one activity** is **most important**?_"
+Whatever you answer to that question, put a number "1" next to that activity.
+2. Then, ask yourself, "If I could only do one other task on this list, which one task would
+be the most valuable use of my time?" Then write a number "2" next to that task.
 3. Go on until you have seven topics.
 4. Focus and Concentration are the keys to success.
   1. Focus means that you know exactly what it is that you want to accomplish.
@@ -136,7 +136,7 @@ be the most valuable use of my time?” Then write a number “2” next to that
 that move you toward your goal.
 
 
-## 11. Develop the `Habit` of `Self-discipline`
+## 11. Develop the `Habit` of `Self-discipline`
 
 1. Once you have decided on your most important task,
 resolve to **concentrate _single mindedly_**
@@ -167,15 +167,15 @@ and **resources** that will help you to achieve your goals even faster.
 ## 13. Goal-Setting _Exercise_
 
 On a clean sheet of paper (_or fresh page in your notebook_),
-write the word “Goals” at the top of the page along with today’s date.
+write the word "Goals" at the top of the page along with today’s date.
 
 Discipline yourself to write out **at _least_ 10 goals** that you would like
 to accomplish in the next year, or in the foreseeable future.
 
-Begin each goal with the word “I.” Only you can use the word “I.” Follow the word “I” with an action verb that acts as a command from your conscious mind to your subconscious mind.
-Describe your goals in the present tense, as though they had already been achieved. If your goal is to earn a certain amount of money in a certain year, you would say, “I earn this number of dollars by the end of this year.”
-If your goal is to get a new car, you would say, “I drive such and such a new car by such and such a date.”
-Finally, when you write down your goals, always write them in the positive tense. Instead of saying, “I will quit smoking,” you would say, “I am a non-smoker.”
+Begin each goal with the word "I." Only you can use the word "I." Follow the word "I" with an action verb that acts as a command from your conscious mind to your subconscious mind.
+Describe your goals in the present tense, as though they had already been achieved. If your goal is to earn a certain amount of money in a certain year, you would say, "I earn this number of dollars by the end of this year."
+If your goal is to get a new car, you would say, "I drive such and such a new car by such and such a date."
+Finally, when you write down your goals, always write them in the positive tense. Instead of saying, "I will quit smoking," you would say, "I am a non-smoker."
 
 ## Resources and Further Reading
 
