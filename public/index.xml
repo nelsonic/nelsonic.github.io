@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home</title>
+    <link>https://nelsonic.github.io/</link>
+    <description>Recent content on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://nelsonic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://nelsonic.github.io/about/</link>
+      <pubDate>Sun, 19 Sep 2021 22:50:39 +0100</pubDate>
+      
+      <guid>https://nelsonic.github.io/about/</guid>
+      <description>Sample Header #  Not much to say &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
