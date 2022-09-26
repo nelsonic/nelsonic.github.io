@@ -16,7 +16,10 @@ This premise is robustly defended in a recent "New Scientist" article:
 "A meaning to life: How a sense of purpose can keep you healthy":
 https://www.newscientist.com/article/mg23331100-500-a-meaning-to-life-how-a-sense-of-purpose-can-keep-you-healthy
 
-This acessible article in turn summarises/references 
+![image](https://user-images.githubusercontent.com/194400/192130166-f1a865ea-9a05-4901-a8a1-8e60101ae59f.png)
+
+This popular article 
+in turn summarises/references 
 peer-reviewed academic studies.
 
 Therefore the _focus_ of this post is, 
@@ -62,7 +65,7 @@ _Before_ we dive in, let's take a moment to _clarify_ a few definitions:
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/194400/36802005-72d19f9c-1cab-11e8-806a-8e5a804c8bb5.jpg"
-alt="spoiler alert everybody dies" width="500">
+alt="spoiler alert everybody dies" width="800">
 
 </div>
 
@@ -121,7 +124,13 @@ about the diseases/conditions they do _not_ have.
 
 ## Intro
 
-![macgyver-too-easy](https://user-images.githubusercontent.com/194400/36802094-b3aab5a8-1cab-11e8-981a-a22768b07023.png)
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/194400/36802094-b3aab5a8-1cab-11e8-981a-a22768b07023.png"
+alt="MacGyver Too Easy" width="500">
+
+</div>
+
 
 For _some_ people their "life purpose" is _obvious_
 and they just _get on_ with it,
@@ -130,7 +139,6 @@ and they are "_stuck_" and often "_give up_"
 on searching for / finding theirs.
 
 ...
-
 
 If you don't _already_ know me,
 I'm a fan of [reductionism](https://en.wikipedia.org/wiki/Reductionism),
